@@ -60,6 +60,14 @@ docs/               Benchmark, Golden Set, and safety contracts
 artifacts/          Generated local benchmark evidence (gitignored)
 ```
 
+## Default activation
+
+For nontrivial execution work, run the query-only reuse gate before creating new scratch work. It is intentionally skipped for simple Q&A and never triggers a full refresh on its own. See [`docs/default-activation.md`](docs/default-activation.md).
+
+```bash
+py -3.11 scripts/warp_cache.py golden-query --query "PPTX screen validation"
+```
+
 ## Status
 
 - [x] Change-aware source digest reuse
