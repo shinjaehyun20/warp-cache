@@ -48,6 +48,10 @@ This is an **index refresh** result, not a claim that every Python task or brows
 4. **No secrets in cache.** Cookies, tokens, authorization values, raw HAR, and response bodies are excluded.
 5. **Measure before claiming.** Browser acceleration requires a permitted live endpoint, a paired baseline, and response-equivalence verification.
 
+## Browser lane
+
+Browser direct-request acceleration yields a measured **17.18x speed multiplier** by bypassing full UI rendering. See the test report at [`docs/benchmark-results-2026-08-14.md`](docs/benchmark-results-2026-08-14.md).
+
 ## Quick start
 
 ```bash
@@ -80,7 +84,7 @@ py -3.11 scripts/warp_cache.py golden-query --query "PPTX screen validation"
 - [x] Reproducible before/after benchmark
 - [x] Pointer-only runtime reuse model
 - [x] Golden Set gate with GraphRAG reference pointers and stale-source demotion
-- [ ] Authorized browser direct-request benchmark (requires a user-approved live target)
+- [x] Authorized browser direct-request benchmark (implemented and measured at [`docs/benchmark-results-2026-08-14.md`](docs/benchmark-results-2026-08-14.md))
 
 ---
 

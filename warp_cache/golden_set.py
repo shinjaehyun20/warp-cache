@@ -98,7 +98,12 @@ class GoldenSet:
         for row in self._load()["cases"]:
             if not isinstance(row, dict):
                 continue
-            haystack = " ".join([str(row.get("summary", "")), str(row.get("kind", "")), *row.get("graph_refs", [])]).casefold()
+            haystack = " ".join([
+                str(row.get("summary", "")),
+                str(row.get("kind", "")),
+                str(row.get("canonical_path", "")),
+                *row.get("graph_refs", [])
+            ]).casefold()
             score = sum(term in haystack for term in terms)
             path = Path(str(row.get("canonical_path", "")))
             current = path.is_file() and sha256_file(path) == row.get("sha256")
