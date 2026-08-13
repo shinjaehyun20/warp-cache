@@ -23,6 +23,7 @@ canonical source  →  WarpIndex  →  reuse brief  →  native runtime
 | **Change-aware index** | Avoids re-hashing unchanged sources | Source files remain canonical |
 | **Reuse brief** | Sends a small, evidence-backed candidate list | Target runtime reloads native content |
 | **Proof ledger** | Keeps revision/hash/path with each candidate | No credentials or source-body replication |
+| **Golden Set × GraphRAG** | Traverses related work, then admits only verified reusable cases | Mutated source is automatically demoted |
 | **Network recipes (optional)** | Captures safe endpoint *shape* for authorized repeat work | HAR/raw secrets are never the cache |
 
 ## Measured result
@@ -55,7 +56,7 @@ py -3.11 scripts/benchmark.py --files 2000 --bytes-per-file 131072 --runs 5
 warp_cache/         Core change-aware index
 scripts/            Reproducible benchmark runner
 tests/              Unit and speed-contract tests
-docs/               Benchmark and safety contract
+docs/               Benchmark, Golden Set, and safety contracts
 artifacts/          Generated local benchmark evidence (gitignored)
 ```
 
@@ -64,6 +65,7 @@ artifacts/          Generated local benchmark evidence (gitignored)
 - [x] Change-aware source digest reuse
 - [x] Reproducible before/after benchmark
 - [x] Pointer-only runtime reuse model
+- [x] Golden Set gate with GraphRAG reference pointers and stale-source demotion
 - [ ] Authorized browser direct-request benchmark (requires a user-approved live target)
 
 ---
