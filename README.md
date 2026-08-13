@@ -1,11 +1,16 @@
 # ⚡ WarpCache
 
+<p align="center">
+  <img src="assets/warp-cache-cover.svg" alt="WarpCache — proof-carrying reuse for AI work" width="100%" />
+</p>
+
 > **Find proven work before rebuilding it.**
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](#)
 [![Local first](https://img.shields.io/badge/Runtime-local--first-6B46C1)](#principles)
 [![Proof carrying](https://img.shields.io/badge/Reuse-proof--carrying-0F766E)](#what-it-does)
-[![Private repository](https://img.shields.io/badge/Repository-private-111827?logo=github)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-C8FF5A.svg)](LICENSE)
+[![Security policy](https://img.shields.io/badge/Security-policy-0F766E)](SECURITY.md)
 
 WarpCache is a **local reuse layer** for AI work. It records only safe, regenerable metadata about skills, tools, scripts, and verified artifacts—then returns the canonical path and proof needed to reuse them.
 
@@ -57,6 +62,7 @@ warp_cache/         Core change-aware index
 scripts/            Reproducible benchmark runner
 tests/              Unit and speed-contract tests
 docs/               Benchmark, Golden Set, and safety contracts
+assets/             Public repository cover artwork
 artifacts/          Generated local benchmark evidence (gitignored)
 ```
 
@@ -79,3 +85,7 @@ py -3.11 scripts/warp_cache.py golden-query --query "PPTX screen validation"
 ---
 
 Built for repeatable, local-first AI operations.
+
+## Contributing & security
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes and [SECURITY.md](SECURITY.md) before reporting a vulnerability.

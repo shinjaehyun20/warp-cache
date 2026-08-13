@@ -1,6 +1,6 @@
 # Benchmark results — 2026-08-13
 
-Environment: Windows 10, Python 3.11.9. Each profile ran five inventory passes; the median excludes no values and reports the complete raw timings in local ignored JSON evidence under `artifacts/`.
+Environment: Windows host, Python 3.11. Each profile ran five inventory passes; the median excludes no values and reports the complete raw timings in local ignored JSON evidence under `artifacts/`.
 
 | Profile | Baseline median | WarpCache median | Delta | Interpretation |
 |---|---:|---:|---:|---|
