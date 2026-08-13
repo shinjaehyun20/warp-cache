@@ -1,0 +1,9 @@
+[project]
+name = "warp-cache"
+version = "0.1.0"
+description = "Proof-carrying local reuse index for multi-runtime AI work"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
