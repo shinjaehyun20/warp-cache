@@ -1,7 +1,7 @@
 {
   "schema": "warp-cache-golden-set/v1",
-  "updated_at": "2026-08-14T00:34:50Z",
-  "case_count": 227,
+  "updated_at": "2026-08-14T01:48:29Z",
+  "case_count": 228,
   "cases": [
     {
       "case_id": "golden-0078dd61e57b7aaf27f9",
@@ -92,6 +92,21 @@
       ],
       "summary": "Successful script run mined from devlog: ai-workflow-kits.md",
       "promoted_at": "2026-08-14T00:34:50Z"
+    },
+    {
+      "case_id": "golden-04886382096aae44fa98",
+      "kind": "script",
+      "canonical_path": "D:\\workspace\\projects\\active\\jangyoon-s-game\\scripts\\update_games.py",
+      "sha256": "845b7957a4650c942cf1f165d3d78358967d499bf6bf01ccb41b2c39401b4b16",
+      "input_fingerprint": "daily-morning-run-2026-08-14-jangyoon-games",
+      "verifier_ref": "python D:\\workspace\\projects\\active\\jangyoon-s-game\\scripts\\update_games.py",
+      "graph_refs": [
+        "project:jangyoon-s-game",
+        "runtime:gemini",
+        "source:daily-morning"
+      ],
+      "summary": "Automates adding mini-games to games.json and menu.json, and updates counters in docs/assets/portfolio-hero.svg, docs/github-about.md, and README.md.",
+      "promoted_at": "2026-08-14T01:48:29Z"
     },
     {
       "case_id": "golden-058619fb857fdfc2325a",
