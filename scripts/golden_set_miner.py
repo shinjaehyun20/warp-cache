@@ -188,6 +188,10 @@ def mine_devlogs(registry: GoldenSet) -> int:
                             graph_refs=graph_refs,
                             summary=summary
                         )
+                        # Force demotion to stale status for devlog-mined scripts pending verification
+                        import dataclasses
+                        case = dataclasses.replace(case, sha256="pending-verification-placeholder-hash")
+                        
                         res = registry.promote(case)
                         if res.get("created"):
                             print(f"Promoted mined script from devlog: {candidate_file.name} (Case ID: {res['case_id']})")

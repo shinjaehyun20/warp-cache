@@ -1,13 +1,13 @@
 {
   "schema": "warp-cache-golden-set/v1",
-  "updated_at": "2026-08-13T23:03:51Z",
-  "case_count": 226,
+  "updated_at": "2026-08-14T00:34:50Z",
+  "case_count": 227,
   "cases": [
     {
       "case_id": "golden-0078dd61e57b7aaf27f9",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\rfp-studio\\tests\\test_content_fidelity.py",
-      "sha256": "ec88807beb0cf0b021df5d0ca1ecb897a9e2c8f30e8065092cd0ce7df738af77",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-29-devlog",
       "verifier_ref": "devlog:2026-07-29-devlog.md",
       "graph_refs": [
@@ -16,13 +16,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-29-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-00877c88a1983fbe15df",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\run_codex_self_improvement.bat",
-      "sha256": "40b87a96a498775f5f82f74358a0440eb9d6a92285a4f3a7a1c5fffcaba4ba90",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-config-리팩토링-ide-권한모드-ui",
       "verifier_ref": "devlog:codex-config-리팩토링-ide-권한모드-ui.md",
       "graph_refs": [
@@ -31,13 +31,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-config-리팩토링-ide-권한모드-ui.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-021f50c37d9033eb83e6",
       "kind": "script",
       "canonical_path": "D:\\workspace\\runtime\\ai-service-relay\\scripts\\quality_gate.py",
-      "sha256": "c24fd6fa72258fe61ca3c56106daae5cd6de37d47ef672bef106c39a366c700e",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-claude-code-100-agent-article-comparison",
       "verifier_ref": "devlog:claude-code-100-agent-article-comparison.md",
       "graph_refs": [
@@ -46,13 +46,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: claude-code-100-agent-article-comparison.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-0227c66706bae80add0f",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-04_codex-hermes-runtime-contract",
       "verifier_ref": "devlog:2026-07-04_codex-hermes-runtime-contract.md",
       "graph_refs": [
@@ -61,13 +61,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-04_codex-hermes-runtime-contract.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-03c71750ed84e6b75560",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\poc\\scripts\\run_semantic_review.py",
-      "sha256": "eb9a10534f9295007180eeefaacf5cc2381d1353f5692a839ff59e612df8a43b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-semantic-review-codex",
       "verifier_ref": "devlog:wylie-graphrag-semantic-review-codex.md",
       "graph_refs": [
@@ -76,13 +76,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-semantic-review-codex.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-03e1b6bc23e71ee9a769",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-ohp-slack-autoworker.py",
-      "sha256": "b1845238c03f142cb51a3e8c3f730d583b0251b0fed4d205b88f09b86a446a39",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-ai-workflow-kits",
       "verifier_ref": "devlog:ai-workflow-kits.md",
       "graph_refs": [
@@ -91,13 +91,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: ai-workflow-kits.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-058619fb857fdfc2325a",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-stack-open-ui.ps1",
-      "sha256": "17e5a97fa81ec087f5c1eaf084b7108832c859598b8968bf2d1a0c8d7d80c33c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-18_ai-services-home-ui-polish",
       "verifier_ref": "devlog:2026-05-18_ai-services-home-ui-polish.md",
       "graph_refs": [
@@ -106,13 +106,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-18_ai-services-home-ui-polish.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-07255f4a41fa86f1f244",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\model\\eval_compare.py",
-      "sha256": "5f582ac971a133d1579c910fb8a43ded9167a1a34de6badac1c3b71e827e876b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-INDEX",
       "verifier_ref": "devlog:INDEX.md",
       "graph_refs": [
@@ -121,13 +121,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: INDEX.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-079b3ee16a951eac0561",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\compile_lessons_projection.py",
-      "sha256": "b9267771da2de98b8a51fad440c928acdf5e903f290a75428d41abb54599095f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-sable-정본반영-3건",
       "verifier_ref": "devlog:sable-정본반영-3건.md",
       "graph_refs": [
@@ -136,7 +136,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: sable-정본반영-3건.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-088f11c7073acb022c07",
@@ -156,7 +156,7 @@
       "case_id": "golden-093fed94ee624964f292",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\poc\\scripts\\prepare_image_caption_sample.py",
-      "sha256": "fe211618f4adfb16b559523e3ea78a64e09e9e44ea8dba327775fbed70d8ea70",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-image-caption-sample-codex",
       "verifier_ref": "devlog:wylie-graphrag-image-caption-sample-codex.md",
       "graph_refs": [
@@ -165,13 +165,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-image-caption-sample-codex.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-0ab5ca86a81a8513877a",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-status.py",
-      "sha256": "f96f139b550bb3775b31699f188dac1d462e8d228733271121ed15db1cbe1b0e",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -180,13 +180,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-0b29548c00f935872612",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\hf-screen-alignment\\apply_alignment_workbook.py",
-      "sha256": "bbec9f3a5f7e59b1baa521dc5dc9a7868f37875de2ee024e72f6ab374079d826",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-10-devlog",
       "verifier_ref": "devlog:2026-08-10-devlog.md",
       "graph_refs": [
@@ -195,13 +195,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-10-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-0c22fceef22808e01f06",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\barco3d-poc\\automation\\blender\\verify_pitstop.py",
-      "sha256": "e2ca52b405daf75df1a2ba7a2d53cb918522d3e48826371dabdb516b520d7f0a",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-11_Blender-pitstop-evidence-learning",
       "verifier_ref": "devlog:2026-08-11_Blender-pitstop-evidence-learning.md",
       "graph_refs": [
@@ -210,13 +210,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-11_Blender-pitstop-evidence-learning.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-0ee46daddb471b651ea5",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\voice-studio\\app\\server.py",
-      "sha256": "c6124d0f2a63107d59c43021205b13f872f80e4d97015676bc397f2d230d6498",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-11-devlog",
       "verifier_ref": "devlog:2026-08-11-devlog.md",
       "graph_refs": [
@@ -225,13 +225,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-11-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-0f48be2d08fffe3ecb48",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-refresh.bat",
-      "sha256": "6fcfb804772536da8dfd83029aad54770581e97838d67fe4d748ee86e63228c0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-learn-skill-surface-fix",
       "verifier_ref": "devlog:codex-learn-skill-surface-fix.md",
       "graph_refs": [
@@ -240,13 +240,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-learn-skill-surface-fix.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-0f92e0ed7e5730319786",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-goal-first-smoke-test.py",
-      "sha256": "a2a8bc2224f2fdf466f086c118679bfe628f753a0302b753f5b53b04af1a28de",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_goal-first-external-service-hardening",
       "verifier_ref": "devlog:2026-05-15_goal-first-external-service-hardening.md",
       "graph_refs": [
@@ -255,13 +255,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_goal-first-external-service-hardening.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-103796c7334c6f4764be",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\migration\\run_codex_automation_improvement.ps1",
-      "sha256": "99592371a032663f394771ff203499759bed043dd6b8b2357825587845bbd1cd",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -270,13 +270,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-11943a941aa4a1001510",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\agents-github\\tools\\agent-lint\\validate_agents.py",
-      "sha256": "38b692651e96f754e69692b265a5f0ca93660ac2358ce89a980cedc8de536f3b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-22_copilot-native-hallucination-guard-devlog",
       "verifier_ref": "devlog:2026-05-22_copilot-native-hallucination-guard-devlog.md",
       "graph_refs": [
@@ -285,13 +285,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-22_copilot-native-hallucination-guard-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-119fba844d8e98b19bef",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.claude\\hooks\\muse-persist-sessionend.ps1",
-      "sha256": "120c56a5053191746681ecb7422ede45cd56d3e1273af2a3a753903774984047",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-cross-runtime-session-coverage-2026-07-20",
       "verifier_ref": "devlog:cross-runtime-session-coverage-2026-07-20.md",
       "graph_refs": [
@@ -300,13 +300,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: cross-runtime-session-coverage-2026-07-20.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-147fcd0739442d6809b6",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\hermes-gateway-start.bat",
-      "sha256": "fd8a6f9b1bf9a5894b07fbd6e6c5137e0b97b31fa6da07019830f1216973d786",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-11-devlog",
       "verifier_ref": "devlog:2026-08-11-devlog.md",
       "graph_refs": [
@@ -315,13 +315,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-11-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-1500555e4a4373884903",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-services.bat",
-      "sha256": "f046a683038a9c28e23dd43a886829344c3e0fc3555ea8d3082c1087eb98b6ca",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-18_ai-services-home-ui-polish",
       "verifier_ref": "devlog:2026-05-18_ai-services-home-ui-polish.md",
       "graph_refs": [
@@ -330,13 +330,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-18_ai-services-home-ui-polish.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-15630601a0007dccfa7b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.claude\\hooks\\xruntime-relay-scan.py",
-      "sha256": "c34669a78b3af73a6ad2ccaba9dffbbcc6f49e311ebf7bcd4d746cdd6fb42249",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-cross-runtime-relay-self-improvement-표면-존재확인",
       "verifier_ref": "devlog:cross-runtime-relay-self-improvement-표면-존재확인.md",
       "graph_refs": [
@@ -345,13 +345,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: cross-runtime-relay-self-improvement-표면-존재확인.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-167a49c5be6cc7634801",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex-preflight.bat",
-      "sha256": "7b74cc2e53aab05e72cbc2b046ed78823cd086fb6b6c6fc637f32c39275acf60",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-데스크톱-슬림-모드-성능설정",
       "verifier_ref": "devlog:Codex-데스크톱-슬림-모드-성능설정.md",
       "graph_refs": [
@@ -360,7 +360,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-데스크톱-슬림-모드-성능설정.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-169db8cafcbadd1eb97a",
@@ -374,13 +374,13 @@
         "runtime:codex"
       ],
       "summary": "Updated tools/db/compile_state.py so project-state cards include a Recent state section for readable info/state items with evidence pointers. This makes project-spined audit execution visible from the project-state card without converting state facts into open issues. Also suppresses blank housekeeping issues from reader-facing cards and reports while preserving append-only DB history.",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-17c2342ce56e431dbee4",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\agent-lint\\validate_agent_modernization.py",
-      "sha256": "1653f3c376c4fd777ea5cd2bd7c6f83c8675772114ebb485a0f78df804762cbb",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-22_copilot-native-hallucination-guard-devlog",
       "verifier_ref": "devlog:2026-05-22_copilot-native-hallucination-guard-devlog.md",
       "graph_refs": [
@@ -389,13 +389,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-22_copilot-native-hallucination-guard-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-17f285639a64154ce06a",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex_keepworking_hook.py",
-      "sha256": "87e7a3169f77b0139ede1bfb200ff90a8762c5839ea643c4ca00208dccd4468b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -404,13 +404,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-1a1748ad47e6d01dd939",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\deck\\applier.py",
-      "sha256": "82dc54958c91df2b0646679b6339f3a2952e8e0f952301a8c827dc9c4d577dc0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-pptx-verbatim-reuse-rule20-56-반영",
       "verifier_ref": "devlog:pptx-verbatim-reuse-rule20-56-반영.md",
       "graph_refs": [
@@ -419,13 +419,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: pptx-verbatim-reuse-rule20-56-반영.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-1b50860b43f1e9b1a6bb",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\gen_trend_daily_sd35.py",
-      "sha256": "b42707863420cfe9f9b56c4ab380c9158d34220796c245c3c4c251c52645a2d1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-ttd-morning",
       "verifier_ref": "devlog:ttd-morning.md",
       "graph_refs": [
@@ -434,13 +434,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: ttd-morning.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-1c7d045ad4d390efb372",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-goal-first-smoke-test.py",
-      "sha256": "a2a8bc2224f2fdf466f086c118679bfe628f753a0302b753f5b53b04af1a28de",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -449,13 +449,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-1d86054b2dcdeaafc0ca",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_goal_flow.py",
-      "sha256": "306bbc4a7a1451031f186d94a81f305408cfdfc28268796e06e66b9702e6cc24",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-04_codex-hermes-runtime-contract",
       "verifier_ref": "devlog:2026-07-04_codex-hermes-runtime-contract.md",
       "graph_refs": [
@@ -464,13 +464,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-04_codex-hermes-runtime-contract.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-1dce5bd04106b671c9a3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\run_codex_self_improvement.ps1",
-      "sha256": "2ab2a6147304c482b0a90ab08f5360301fc7917df78ecf82390249ffc4a2b6e1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-25_codex-hermes-adaptation",
       "verifier_ref": "devlog:2026-06-25_codex-hermes-adaptation.md",
       "graph_refs": [
@@ -479,13 +479,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-25_codex-hermes-adaptation.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-21ec856bd57af90dc62d",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\migration\\verify_codex_official_features.ps1",
-      "sha256": "542be3a2fc4aba8e4c954c3815c28630f893995272bdd3e6845585a33edaf451",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -494,13 +494,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-236767dbfcadabc40698",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\quantum-trader\\portfolio\\yahoo_chart.py",
-      "sha256": "44b2a064dfafa3385a7734698ca626648d073aefd101d9f5ed1bcf5058b121c3",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Quantum-Trader-시가-종가-가격-Anchor-계약",
       "verifier_ref": "devlog:Quantum-Trader-시가-종가-가격-Anchor-계약.md",
       "graph_refs": [
@@ -509,7 +509,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Quantum-Trader-시가-종가-가격-Anchor-계약.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-23fdfea4264497958154",
@@ -523,13 +523,13 @@
         "runtime:codex"
       ],
       "summary": "Compared M0-M8 against live evidence and reviewed 2026-08-10 Hermes designs. Added a deterministic pointer-only TaskEnvelope-to-CapabilityResolver compiler and separated candidate-only assets from native selections. Focused tests passed 5/5 and a real accepted-registry smoke selected one identical asset across five runtime families. Fixed native hook routing, usage writeback, M5-M8, and full Core acceptance remain open.",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-2405f5ffb7b01e75c3ab",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-10_codex-self-improvement-skill-and-automation",
       "verifier_ref": "devlog:2026-06-10_codex-self-improvement-skill-and-automation.md",
       "graph_refs": [
@@ -538,13 +538,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-10_codex-self-improvement-skill-and-automation.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-2446d8bfe91e4ce4f157",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\run_codex_self_improvement.bat",
-      "sha256": "40b87a96a498775f5f82f74358a0440eb9d6a92285a4f3a7a1c5fffcaba4ba90",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -553,13 +553,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-26ca6ff714ebbaf317dd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\goal_registry.py",
-      "sha256": "56d3bf77ddeb7d96da0f92640ec0512429f37fb036d9abecbca73e72b2a1536c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-25_codex-hermes-adaptation",
       "verifier_ref": "devlog:2026-06-25_codex-hermes-adaptation.md",
       "graph_refs": [
@@ -568,7 +568,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-25_codex-hermes-adaptation.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-26cee7b5cada38e08edf",
@@ -582,13 +582,13 @@
         "runtime:hermes"
       ],
       "summary": "HF 종료감리 마스터·PM03 화면목록을 source-lock하여 수량 정합과 화면 ID 예외를 검출하는 read-only CLI를 구현·실행했다. 정본 수정/감리 완료 판정은 미수행.",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-297cc5c0ba6432a749dd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\barco3d-poc\\automation\\blender\\lesson_pitstop.py",
-      "sha256": "57ba867bccd49a1c5006954f2c494e3e0858ff5a9bdaa81e202b45402a99205c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-11_Blender-pitstop-evidence-learning",
       "verifier_ref": "devlog:2026-08-11_Blender-pitstop-evidence-learning.md",
       "graph_refs": [
@@ -597,13 +597,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-11_Blender-pitstop-evidence-learning.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-29fd56840e5b6436d7e9",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\app\\services\\acceptance_gate.py",
-      "sha256": "af8d8c9ef1b37f97a14a5948fc780c2a7c8b4b16e29ee1708a61e25ce4661e53",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-claude-code-100-agent-article-comparison",
       "verifier_ref": "devlog:claude-code-100-agent-article-comparison.md",
       "graph_refs": [
@@ -612,13 +612,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: claude-code-100-agent-article-comparison.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-2a083aa3bdf4404d5053",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\gen_trend_daily_sd35.py",
-      "sha256": "b42707863420cfe9f9b56c4ab380c9158d34220796c245c3c4c251c52645a2d1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-daily",
       "verifier_ref": "devlog:daily.md",
       "graph_refs": [
@@ -627,13 +627,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: daily.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-2a5886459860b6131d08",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-사용중-데스크톱-화면-소유권-보정",
       "verifier_ref": "devlog:Codex-사용중-데스크톱-화면-소유권-보정.md",
       "graph_refs": [
@@ -642,13 +642,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-사용중-데스크톱-화면-소유권-보정.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-2beb811b47029e0ba41a",
       "kind": "script",
       "canonical_path": "D:\\workspace\\runtime\\audit\\2026-08-06\\obsidian-ring-current-check\\ring_driver_current.py",
-      "sha256": "1431c0a70926e55b8dad74974ef1c14f336032cccece383c8b8620c379820ba2",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-obsidian-graph-leaf-ring-cleanup",
       "verifier_ref": "devlog:obsidian-graph-leaf-ring-cleanup.md",
       "graph_refs": [
@@ -657,13 +657,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: obsidian-graph-leaf-ring-cleanup.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-2dba746b4e4862804b9b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\agents\\server\\services\\adapters\\claude_adapter.py",
-      "sha256": "3d62586045d5864000d484266ff630af9bed6e8439642f21039dad79f16965b8",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-agent-hub-ui-review-and-runtime-repair",
       "verifier_ref": "devlog:agent-hub-ui-review-and-runtime-repair.md",
       "graph_refs": [
@@ -672,13 +672,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: agent-hub-ui-review-and-runtime-repair.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-2e10e61bf3426280294e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-stack-stop.ps1",
-      "sha256": "5cb1af91551b9eb030b512abdeccb5154ff5fca092d3e2dbd9996cc4ba7c6802",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-13_ai-stack-desktop-batch-devlog",
       "verifier_ref": "devlog:2026-05-13_ai-stack-desktop-batch-devlog.md",
       "graph_refs": [
@@ -687,13 +687,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-13_ai-stack-desktop-batch-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-31730c3c1b0acad7c017",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\scripts\\ops\\run_ttd_sd35.ps1",
-      "sha256": "438fea0e287c1a40e927a19af9cabd1b6a94b95f5b86692aa16df7fae9b1be83",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-good-night-ttd-run",
       "verifier_ref": "devlog:good-night-ttd-run.md",
       "graph_refs": [
@@ -702,13 +702,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: good-night-ttd-run.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-31c45d98e5c23e3a53b5",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex-preflight.py",
-      "sha256": "496ba6c1f65a1c309e49256b10f5bf440a96cecbebd7c922b29d551b32511b96",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-agent-qa-benchmark",
       "verifier_ref": "devlog:wylie-graphrag-agent-qa-benchmark.md",
       "graph_refs": [
@@ -717,13 +717,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-agent-qa-benchmark.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-349fecfea426116bf473",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex-preflight.bat",
-      "sha256": "7b74cc2e53aab05e72cbc2b046ed78823cd086fb6b6c6fc637f32c39275acf60",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-aiwf-handoff-verification",
       "verifier_ref": "devlog:codex-aiwf-handoff-verification.md",
       "graph_refs": [
@@ -732,13 +732,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-aiwf-handoff-verification.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-37d7623d8786546e774b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-14-devlog",
       "verifier_ref": "devlog:2026-07-14-devlog.md",
       "graph_refs": [
@@ -747,13 +747,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-14-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-37fb16e46572cd7364ac",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-refresh.bat",
-      "sha256": "6fcfb804772536da8dfd83029aad54770581e97838d67fe4d748ee86e63228c0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -762,13 +762,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-3a992033e401a1d95a1b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.github\\skills\\weekly-report\\run_weekly_report.ps1",
-      "sha256": "3b35e06076f26f7e3ab44675ebbc990a1841d8d6d9baa28212f69e9a5de4fc58",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-good-morning-wrapper-ttd-jangyoon-2026-08-03",
       "verifier_ref": "devlog:good-morning-wrapper-ttd-jangyoon-2026-08-03.md",
       "graph_refs": [
@@ -777,13 +777,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: good-morning-wrapper-ttd-jangyoon-2026-08-03.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-3b43f387c6acffdd2eb7",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\design-canvas-studio\\server.py",
-      "sha256": "d6d8ec14fa318927ac962b7c9e2b0106afbb8a931b4d5d2d31c6d56e1a38f1e1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Design Canvas Studio - Claude Design 화면설계서·Figma 연동 구현",
       "verifier_ref": "devlog:Design Canvas Studio - Claude Design 화면설계서·Figma 연동 구현.md",
       "graph_refs": [
@@ -792,13 +792,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Design Canvas Studio - Claude Design 화면설계서·Figma 연동 구현.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-3b73f5f1e14f7153e201",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\run_codex_self_improvement.ps1",
-      "sha256": "2ab2a6147304c482b0a90ab08f5360301fc7917df78ecf82390249ffc4a2b6e1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-22_codex-registry-slim",
       "verifier_ref": "devlog:2026-06-22_codex-registry-slim.md",
       "graph_refs": [
@@ -807,13 +807,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-22_codex-registry-slim.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-3c984c660c4c19a4ca01",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\rfp-studio\\backend\\services\\source_truth_composer.py",
-      "sha256": "ee5bf5d2dfa79af3347b21535855bf2a43e1460bd15c0cb6ddeba140cd389d8e",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-29-devlog",
       "verifier_ref": "devlog:2026-07-29-devlog.md",
       "graph_refs": [
@@ -822,13 +822,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-29-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-3d6b47ee1820544119ae",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-inventory.py",
-      "sha256": "db03ab3e9dea35a60fa9793d430cf94f4fe3a524eb0483a6ee49678368ae7f99",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-skill-to-program-reuse-first-runtime-entrypoints",
       "verifier_ref": "devlog:skill-to-program-reuse-first-runtime-entrypoints.md",
       "graph_refs": [
@@ -837,13 +837,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: skill-to-program-reuse-first-runtime-entrypoints.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-3f55f476ffb21602437c",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_ai_runtime_adapters.py",
-      "sha256": "35beae82824f096e736550e721a124b53877d4f80554e4c67c817f068e6d9e8c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-D-root-runtime-hygiene-2026-08-03",
       "verifier_ref": "devlog:D-root-runtime-hygiene-2026-08-03.md",
       "graph_refs": [
@@ -852,7 +852,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: D-root-runtime-hygiene-2026-08-03.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-40da5725f3905239f95c",
@@ -866,13 +866,13 @@
         "runtime:codex"
       ],
       "summary": "Repaired Portfolio DB compiler handling for two recurring lane warnings without rewriting append-only inbox history. The compiler now normalizes runtime casing and treats records in a lane matching acceptance_owner as accepted relay evidence, preserving declared runtime as source_runtime. py_compile passed and compile_state now reports 759 events -> 491 issues, 0 warnings.",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-410eb9246dfc1c2c7d8b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_ai_runtime_adapters.py",
-      "sha256": "35beae82824f096e736550e721a124b53877d4f80554e4c67c817f068e6d9e8c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-14-devlog",
       "verifier_ref": "devlog:2026-07-14-devlog.md",
       "graph_refs": [
@@ -881,13 +881,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-14-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-440be983315bb1084dc7",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\gen_trend_daily_sd35.py",
-      "sha256": "b42707863420cfe9f9b56c4ab380c9158d34220796c245c3c4c251c52645a2d1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-gen-compose-image-engine",
       "verifier_ref": "devlog:gen-compose-image-engine.md",
       "graph_refs": [
@@ -896,13 +896,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: gen-compose-image-engine.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-44ebf5165166d421d028",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\mrkb_native_reader.py",
-      "sha256": "a372938eae8f7e779c8a6c881723398e297aeb30d8a391d606ed0607e3e700d7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -911,13 +911,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-4527c378db2e315fc085",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\run_codex_self_improvement.ps1",
-      "sha256": "2ab2a6147304c482b0a90ab08f5360301fc7917df78ecf82390249ffc4a2b6e1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-10_codex-self-improvement-skill-and-automation",
       "verifier_ref": "devlog:2026-06-10_codex-self-improvement-skill-and-automation.md",
       "graph_refs": [
@@ -926,13 +926,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-10_codex-self-improvement-skill-and-automation.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-4564f64620ebca448328",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-refresh.bat",
-      "sha256": "6fcfb804772536da8dfd83029aad54770581e97838d67fe4d748ee86e63228c0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-nas-connect-skill",
       "verifier_ref": "devlog:wylie-nas-connect-skill.md",
       "graph_refs": [
@@ -941,13 +941,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-nas-connect-skill.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-45a3ca91a04f0f8f0d9c",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\db\\compile_state.py",
-      "sha256": "6e1b870dd05c50b5be62b620e949066e717564977c5e7fb659f3e2fb21f07d9b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-29-devlog",
       "verifier_ref": "devlog:2026-07-29-devlog.md",
       "graph_refs": [
@@ -956,13 +956,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-29-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-478b802ede58939f1f98",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\tests\\test_compute_kappa.py",
-      "sha256": "a376d7727a50c4cb52471fa7806c5c97568874f8355bf74ff67babe39195b229",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-agent-qa-benchmark",
       "verifier_ref": "devlog:wylie-graphrag-agent-qa-benchmark.md",
       "graph_refs": [
@@ -971,13 +971,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-agent-qa-benchmark.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-490d1b5bbe0bcd76d128",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\deck\\verifier.py",
-      "sha256": "ea5d0002473009c6c7c3886c0b134341c038804f8fa28f7eac7469f95f77887a",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-hf-hion-asis보고서-개선안2본-rebuild",
       "verifier_ref": "devlog:hf-hion-asis보고서-개선안2본-rebuild.md",
       "graph_refs": [
@@ -986,7 +986,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: hf-hion-asis보고서-개선안2본-rebuild.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-4979c83af19c3484a4e8",
@@ -1000,13 +1000,13 @@
         "runtime:codex"
       ],
       "summary": "Classified 186 skill review targets, activated 53 curated routes in Codex REGISTRY, taught self-improvement to treat curation decisions as classified, and confirmed cross-runtime relay is present.",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-4a3c5afeb637f450c043",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\rfp-studio\\backend\\services\\content_fidelity.py",
-      "sha256": "6c246edc08b9ac70308eac3e49e1446eb11e9c5c3fbe8464aef3a67f53d6e05a",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-29-devlog",
       "verifier_ref": "devlog:2026-07-29-devlog.md",
       "graph_refs": [
@@ -1015,13 +1015,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-29-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-4b9b0f1cc091949ccabd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex_keepworking_hook.py",
-      "sha256": "87e7a3169f77b0139ede1bfb200ff90a8762c5839ea643c4ca00208dccd4468b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-invalid-msg-id-resume진단",
       "verifier_ref": "devlog:codex-invalid-msg-id-resume진단.md",
       "graph_refs": [
@@ -1030,13 +1030,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-invalid-msg-id-resume진단.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-4c2d7472e958adb68bcd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\runtime\\ai-service-relay\\scripts\\relay_orchestrator.py",
-      "sha256": "325b2aebc56447a456fdad4a3014dfa470265487192ffaf0248ae709641132e0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-claude-code-100-agent-article-comparison",
       "verifier_ref": "devlog:claude-code-100-agent-article-comparison.md",
       "graph_refs": [
@@ -1045,13 +1045,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: claude-code-100-agent-article-comparison.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-4d420c26eecae9efd8cf",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\team-work\\app\\services\\team_work_audit.py",
-      "sha256": "6111917feef0bc43e4f03649aae1c693f40da451dc8a02292dc70ca05e9bfd3a",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -1060,13 +1060,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-4f70f2f1ee5525c3cac4",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-preflight.py",
-      "sha256": "b1065fca6eb3347ce27a8e8c01e09f7ec38646168fa6afc2f5c4dd1dd692a091",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-D-root-runtime-hygiene-2026-08-03",
       "verifier_ref": "devlog:D-root-runtime-hygiene-2026-08-03.md",
       "graph_refs": [
@@ -1075,13 +1075,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: D-root-runtime-hygiene-2026-08-03.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-5111f17ad1ae707f2739",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\scripts\\compute_kappa.py",
-      "sha256": "b38f63311ac13e8d34f31b4a87aabcfeeff512b0f0fef7ffebea00ef0d006fdd",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-agent-qa-benchmark",
       "verifier_ref": "devlog:wylie-graphrag-agent-qa-benchmark.md",
       "graph_refs": [
@@ -1090,13 +1090,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-agent-qa-benchmark.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-523937266a6b8f7fb5b3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-preflight.py",
-      "sha256": "b1065fca6eb3347ce27a8e8c01e09f7ec38646168fa6afc2f5c4dd1dd692a091",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-28-devlog",
       "verifier_ref": "devlog:2026-07-28-devlog.md",
       "graph_refs": [
@@ -1105,13 +1105,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-28-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-52c25dde487b4c098819",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\team-work\\app\\ui\\server.py",
-      "sha256": "af7b81911ca61c3c4e62dfde959306105221829a121cb0708571f9fe8f87aaf3",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -1120,13 +1120,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-52d97940d9edf35509bc",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\mrkb_native_reader.py",
-      "sha256": "a372938eae8f7e779c8a6c881723398e297aeb30d8a391d606ed0607e3e700d7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-05-devlog",
       "verifier_ref": "devlog:2026-08-05-devlog.md",
       "graph_refs": [
@@ -1135,13 +1135,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-05-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-53fb2e4f21e1060b7cb3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\evaluator-assignment-api\\tests\\test_service.py",
-      "sha256": "fc75919c36bc24bb1078df44ca3dce5a0fca3a7f53a13519c4f6570c96eb10bd",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-평가위원-자동배정-API-토이프로젝트",
       "verifier_ref": "devlog:평가위원-자동배정-API-토이프로젝트.md",
       "graph_refs": [
@@ -1150,13 +1150,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 평가위원-자동배정-API-토이프로젝트.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-54072d9f06eeabd39309",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\goal_registry.py",
-      "sha256": "56d3bf77ddeb7d96da0f92640ec0512429f37fb036d9abecbca73e72b2a1536c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-22_codex-registry-slim",
       "verifier_ref": "devlog:2026-06-22_codex-registry-slim.md",
       "graph_refs": [
@@ -1165,13 +1165,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-22_codex-registry-slim.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-544d96efe28e8b5ecaf7",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\tests\\test_review_link_r6.py",
-      "sha256": "af0d4cf708fb506dce157a0d523adc14aca36942917c49e9ab27cb4b55c40408",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-agent-qa-benchmark",
       "verifier_ref": "devlog:wylie-graphrag-agent-qa-benchmark.md",
       "graph_refs": [
@@ -1180,13 +1180,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-agent-qa-benchmark.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-559ad6c1bb7629d51662",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\claude-nightly-devlog-backfill.ps1",
-      "sha256": "587241fd68948574d67c7db1aa4bf4a8f6d53cd65e8015be29705367879472cb",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-devlog-backfill-자동화",
       "verifier_ref": "devlog:nightly-devlog-backfill-자동화.md",
       "graph_refs": [
@@ -1195,13 +1195,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-devlog-backfill-자동화.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-5619fe35c037aaa870f7",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\scripts\\ops\\run_video_profile.py",
-      "sha256": "ec216de09a69e5cbf8071281928bd4b89745732a8664d29ef78159c6e5b566a7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-24-devlog",
       "verifier_ref": "devlog:2026-07-24-devlog.md",
       "graph_refs": [
@@ -1210,13 +1210,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-24-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-567cc0fcaf297352fee2",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-learn-skill-surface-fix",
       "verifier_ref": "devlog:codex-learn-skill-surface-fix.md",
       "graph_refs": [
@@ -1225,13 +1225,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-learn-skill-surface-fix.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-56a96c712267ea89217b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\quantum-trader\\tests\\test_next_close.py",
-      "sha256": "b0ec1b70e88ae726fdd947c756753c9d3b5c5fcc20bb9aae883371ddd7cbebab",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Quantum-Trader-다음종가-예측-파일럿",
       "verifier_ref": "devlog:Quantum-Trader-다음종가-예측-파일럿.md",
       "graph_refs": [
@@ -1240,13 +1240,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Quantum-Trader-다음종가-예측-파일럿.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-56cd669ca2fd608a4547",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-stack-start.ps1",
-      "sha256": "4b389047fa95ae46a8adadb20ebe25c7ab43b6dc4c4233c57ebad8082aebb599",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-13_ai-stack-desktop-batch-devlog",
       "verifier_ref": "devlog:2026-05-13_ai-stack-desktop-batch-devlog.md",
       "graph_refs": [
@@ -1255,13 +1255,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-13_ai-stack-desktop-batch-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-5957afb4e35380b404ee",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\app\\services\\runtime_launcher.py",
-      "sha256": "5dd9c6e1ab5acfccc96e612a4f06d94228045870cb4613ee53f7f23b58dff28f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-claude-code-100-agent-article-comparison",
       "verifier_ref": "devlog:claude-code-100-agent-article-comparison.md",
       "graph_refs": [
@@ -1270,13 +1270,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: claude-code-100-agent-article-comparison.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-5cde3806e833088acdb2",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex-preflight.bat",
-      "sha256": "7b74cc2e53aab05e72cbc2b046ed78823cd086fb6b6c6fc637f32c39275acf60",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-12-devlog",
       "verifier_ref": "devlog:2026-08-12-devlog.md",
       "graph_refs": [
@@ -1285,13 +1285,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-12-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-5d0a7cbcb05a81fa0ea4",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\agent-lint\\validate_github_automation.py",
-      "sha256": "a7c3a2c27acf9b018eada099d806a315732aa2b6bd620e5157419f8337287b53",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-22_copilot-native-hallucination-guard-devlog",
       "verifier_ref": "devlog:2026-05-22_copilot-native-hallucination-guard-devlog.md",
       "graph_refs": [
@@ -1300,13 +1300,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-22_copilot-native-hallucination-guard-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-5d4839e1a87da203af42",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\log-index\\obsidian_link_inventory.py",
-      "sha256": "b8928548f9b6311244b2550d33e8d38810769902bd865250a946798b50bd4bf7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-11-daily",
       "verifier_ref": "devlog:2026-06-11-daily.md",
       "graph_refs": [
@@ -1315,13 +1315,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-11-daily.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-5db08da26980c6e0c622",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\db\\compile_state.py",
-      "sha256": "6e1b870dd05c50b5be62b620e949066e717564977c5e7fb659f3e2fb21f07d9b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-portfolio-state-db-구축-멀티런타임전파",
       "verifier_ref": "devlog:portfolio-state-db-구축-멀티런타임전파.md",
       "graph_refs": [
@@ -1330,13 +1330,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: portfolio-state-db-구축-멀티런타임전파.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-5e52ec5c36e10f091eb5",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-aiwf-handoff-verification",
       "verifier_ref": "devlog:codex-aiwf-handoff-verification.md",
       "graph_refs": [
@@ -1345,13 +1345,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-aiwf-handoff-verification.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-605bab8d328934f5f9df",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-services-home.ps1",
-      "sha256": "2ee8c2293849e73be96c2bde3f8ed0d9bf2a7d4db4de44ec1e263eddb2254cbe",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-18_ai-services-home-ui-polish",
       "verifier_ref": "devlog:2026-05-18_ai-services-home-ui-polish.md",
       "graph_refs": [
@@ -1360,13 +1360,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-18_ai-services-home-ui-polish.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-62cec6da65aeb6bc4207",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-service-dispatch.py",
-      "sha256": "acfdb2ec5a7bf1aa717e51595360ff3d35e4d352898c7859de42b05444800892",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-14-devlog",
       "verifier_ref": "devlog:2026-07-14-devlog.md",
       "graph_refs": [
@@ -1375,13 +1375,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-14-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-65eef3ffd21de451eec6",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\compile_lessons_projection.py",
-      "sha256": "b9267771da2de98b8a51fad440c928acdf5e903f290a75428d41abb54599095f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-portfolio-state-db-구축-멀티런타임전파",
       "verifier_ref": "devlog:portfolio-state-db-구축-멀티런타임전파.md",
       "graph_refs": [
@@ -1390,13 +1390,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: portfolio-state-db-구축-멀티런타임전파.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-66b74423521ad5a11e6d",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\runtime-log-silence-remind.ps1",
-      "sha256": "a124303add039a1e09474c6b64571ec6c2936e2100bddcc2e3032a6cc3891fdf",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-devlog-backfill-자동화",
       "verifier_ref": "devlog:nightly-devlog-backfill-자동화.md",
       "graph_refs": [
@@ -1405,13 +1405,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-devlog-backfill-자동화.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-698e257a7ffdf8b75e55",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\log-index\\timeline_writer.py",
-      "sha256": "e875522388ca066abf4f5df47d05bcd9256c93fb0a4058957f902bcd5bc29b69",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-28-devlog",
       "verifier_ref": "devlog:2026-07-28-devlog.md",
       "graph_refs": [
@@ -1420,13 +1420,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-28-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-69e9ad563e1104e91222",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_goal_flow.py",
-      "sha256": "306bbc4a7a1451031f186d94a81f305408cfdfc28268796e06e66b9702e6cc24",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-22_codex-registry-slim",
       "verifier_ref": "devlog:2026-06-22_codex-registry-slim.md",
       "graph_refs": [
@@ -1435,13 +1435,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-22_codex-registry-slim.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-6d27ce6a38f4e2a1223b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_ai_runtime_adapters.py",
-      "sha256": "35beae82824f096e736550e721a124b53877d4f80554e4c67c817f068e6d9e8c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-learn-skill-surface-fix",
       "verifier_ref": "devlog:codex-learn-skill-surface-fix.md",
       "graph_refs": [
@@ -1450,13 +1450,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-learn-skill-surface-fix.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-6df00292f3acd3fbdabd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-12-devlog",
       "verifier_ref": "devlog:2026-08-12-devlog.md",
       "graph_refs": [
@@ -1465,13 +1465,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-12-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-6fa056b5915ccd5edfa8",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\db\\compile_state.py",
-      "sha256": "6e1b870dd05c50b5be62b620e949066e717564977c5e7fb659f3e2fb21f07d9b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-learn-skill-surface-fix",
       "verifier_ref": "devlog:codex-learn-skill-surface-fix.md",
       "graph_refs": [
@@ -1480,13 +1480,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-learn-skill-surface-fix.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-6ff0bce0132719c481eb",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\gradio_app.py",
-      "sha256": "21f29709df7b99fcc91ecf6898945dba1ca696c20d5ddd06d8bc34c1696cff7f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Flow-Veo-ComfyUI-영상제작-구성-정리",
       "verifier_ref": "devlog:Flow-Veo-ComfyUI-영상제작-구성-정리.md",
       "graph_refs": [
@@ -1495,13 +1495,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Flow-Veo-ComfyUI-영상제작-구성-정리.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-71e35fbfce833b6b4edf",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex-preflight.bat",
-      "sha256": "7b74cc2e53aab05e72cbc2b046ed78823cd086fb6b6c6fc637f32c39275acf60",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-04_codex-hermes-runtime-contract",
       "verifier_ref": "devlog:2026-07-04_codex-hermes-runtime-contract.md",
       "graph_refs": [
@@ -1510,13 +1510,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-04_codex-hermes-runtime-contract.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-72abfac0ee7aa890a17b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\db\\compile_state.py",
-      "sha256": "6e1b870dd05c50b5be62b620e949066e717564977c5e7fb659f3e2fb21f07d9b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -1525,13 +1525,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-72bb541b772d4ecec997",
       "kind": "script",
       "canonical_path": "D:\\workspace\\runtime\\audit\\2026-08-06\\obsidian-runtime-discovery-index\\build_obsidian_runtime_discovery_index.py",
-      "sha256": "286b3ad6fb08cbc6167e2557a56ba31d07de7c3298d284a22e99b745fc189a57",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-obsidian-phase6b-hf-procedure-label-repair",
       "verifier_ref": "devlog:obsidian-phase6b-hf-procedure-label-repair.md",
       "graph_refs": [
@@ -1540,13 +1540,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: obsidian-phase6b-hf-procedure-label-repair.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-737a8f5ea8cca79caae1",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\rfp-studio\\backend\\services\\workspace_core.py",
-      "sha256": "be2b4a386edf2d43f50844e19a549e5cc8739104c0df87363cf749128bc8dee0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-01_rfp-studio-devlog",
       "verifier_ref": "devlog:2026-06-01_rfp-studio-devlog.md",
       "graph_refs": [
@@ -1555,13 +1555,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-01_rfp-studio-devlog.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-767102c3f48d52b529e7",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-approval-packet.py",
-      "sha256": "31ab11d4cd76716208bd83cfc4fcdeef2238d9adc0f7cc5b01624cb7db59bd06",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -1570,7 +1570,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-783daa68af1dc6d2adac",
@@ -1584,13 +1584,13 @@
         "runtime:hermes"
       ],
       "summary": "로컬 재사용 레이어 보강: 변경 감지 hash cache로 skills/tools/scripts index refresh 비용을 줄이고, HAR 원문·토큰·body를 저장하지 않는 recipe cache CLI를 추가했다. devlog=pending: local reuse layer",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-7904336a3be7de83f24d",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-inventory.py",
-      "sha256": "db03ab3e9dea35a60fa9793d430cf94f4fe3a524eb0483a6ee49678368ae7f99",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-learn-skill-surface-fix",
       "verifier_ref": "devlog:codex-learn-skill-surface-fix.md",
       "graph_refs": [
@@ -1599,13 +1599,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-learn-skill-surface-fix.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-799552d70be0b431ed4e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\d-root-spill-audit.ps1",
-      "sha256": "8a9738fc59bff27dbc4b31c61cd7c6b760f3c30b42ed57c34b9c8f9a3db72a42",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-D-root-runtime-hygiene-2026-08-03",
       "verifier_ref": "devlog:D-root-runtime-hygiene-2026-08-03.md",
       "graph_refs": [
@@ -1614,13 +1614,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: D-root-runtime-hygiene-2026-08-03.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-7af5748ec82616b08843",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\scripts\\ops\\run_video_profile.py",
-      "sha256": "ec216de09a69e5cbf8071281928bd4b89745732a8664d29ef78159c6e5b566a7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Hermes-세션-마감-2026-07-24",
       "verifier_ref": "devlog:Hermes-세션-마감-2026-07-24.md",
       "graph_refs": [
@@ -1629,13 +1629,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Hermes-세션-마감-2026-07-24.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-7c27a7a9087b15960aec",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\rfp-studio\\backend\\services\\local_agent_pipeline.py",
-      "sha256": "e341b4a1b10c03c9ea9309c0fea96122a3f2e3a3cf9c4f462236d8ab262cc8a9",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-29-devlog",
       "verifier_ref": "devlog:2026-07-29-devlog.md",
       "graph_refs": [
@@ -1644,13 +1644,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-29-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-7c400bcf45584e9f5068",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\hf-screen-alignment\\pptx_incremental_index.py",
-      "sha256": "850d035ef35ac82b41749022aa9c23041c61283ddb1b9b635cd70c683e1b79f6",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-10-devlog",
       "verifier_ref": "devlog:2026-08-10-devlog.md",
       "graph_refs": [
@@ -1659,13 +1659,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-10-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-7d5183a50a0fb808352b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.claude\\hooks\\xruntime-relay-scan.py",
-      "sha256": "c34669a78b3af73a6ad2ccaba9dffbbcc6f49e311ebf7bcd4d746cdd6fb42249",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-크로스런타임-릴레이-자동배선-3런타임진단-museEvolve가드",
       "verifier_ref": "devlog:크로스런타임-릴레이-자동배선-3런타임진단-museEvolve가드.md",
       "graph_refs": [
@@ -1674,13 +1674,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 크로스런타임-릴레이-자동배선-3런타임진단-museEvolve가드.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-7e31c657baba5c6e6ccd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\Blender\\blender_tool.py",
-      "sha256": "023df66ba1d6ef0676b986907b3700e9fb534c11df638adbadc3ed333a442271",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-10_Blender-Godot-automation-learning",
       "verifier_ref": "devlog:2026-08-10_Blender-Godot-automation-learning.md",
       "graph_refs": [
@@ -1689,13 +1689,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-10_Blender-Godot-automation-learning.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-7ecdf2d112231ffd0064",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.claude\\hooks\\UserPromptSubmit.ps1",
-      "sha256": "28f4d7f7bd975e8a6b597c137b502c89d9828775a9af8e48b410465306e41d36",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-mrkb-native-surface-검토-claude",
       "verifier_ref": "devlog:mrkb-native-surface-검토-claude.md",
       "graph_refs": [
@@ -1704,13 +1704,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: mrkb-native-surface-검토-claude.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-7f24d47c616c94bac8c3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\agents-github\\tools\\agent-lint\\validate_copilot_surface.py",
-      "sha256": "fc7348e64fa666795ff9cdaecda53869fca00007674e81c26f51c918306c11b6",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-22_copilot-native-hallucination-guard-devlog",
       "verifier_ref": "devlog:2026-05-22_copilot-native-hallucination-guard-devlog.md",
       "graph_refs": [
@@ -1719,13 +1719,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-22_copilot-native-hallucination-guard-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-7fa8c0c3c36f100e143d",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\log-index\\timeline_writer.py",
-      "sha256": "e875522388ca066abf4f5df47d05bcd9256c93fb0a4058957f902bcd5bc29b69",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-D-root-runtime-hygiene-2026-08-03",
       "verifier_ref": "devlog:D-root-runtime-hygiene-2026-08-03.md",
       "graph_refs": [
@@ -1734,13 +1734,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: D-root-runtime-hygiene-2026-08-03.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-80deefd46905bcb1ad35",
       "kind": "script",
       "canonical_path": "D:\\workspace\\runtime\\audit\\2026-05-13\\storage-runtime-rebalance-v7\\codex\\restore-ollama-cold-models.ps1",
-      "sha256": "751c8095bbc244bdf7719855ab8ddadf38db2b316e33a65439b10c6115df8126",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_storage-runtime-rebalance-v7-finalization",
       "verifier_ref": "devlog:2026-05-15_storage-runtime-rebalance-v7-finalization.md",
       "graph_refs": [
@@ -1749,13 +1749,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_storage-runtime-rebalance-v7-finalization.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-8154689e96f8a333eef3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\agent-lint\\validate_agents.py",
-      "sha256": "e6113f8fc365a154b55b2889bd3a4526dd6fef4d0b599b461e070fe29caa1973",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-22_copilot-native-hallucination-guard-devlog",
       "verifier_ref": "devlog:2026-05-22_copilot-native-hallucination-guard-devlog.md",
       "graph_refs": [
@@ -1764,13 +1764,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-22_copilot-native-hallucination-guard-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-86733be5b891b61ab9f7",
       "kind": "script",
       "canonical_path": "D:\\workspace\\runtime\\audit\\2026-08-05\\obsidian-graph-hygiene-design\\phase3b_keyword_inventory.py",
-      "sha256": "993bf36e62ee57f1476be5f921bbf7ef0f11ca10dfd9ee6aa1befab57a987d01",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-obsidian-graph-leaf-ring-cleanup",
       "verifier_ref": "devlog:obsidian-graph-leaf-ring-cleanup.md",
       "graph_refs": [
@@ -1779,13 +1779,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: obsidian-graph-leaf-ring-cleanup.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-86f0ddb72ae299b90e17",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\_work\\warmup_live_check_20260721.py",
-      "sha256": "2fd5e15c865b069e8cb144d635eae7e18ec96cccd3dbe930e8a1f588bc61a2ef",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-D7파일럿패키지-UX관리자라운드",
       "verifier_ref": "devlog:wylie-graphrag-D7파일럿패키지-UX관리자라운드.md",
       "graph_refs": [
@@ -1794,13 +1794,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-D7파일럿패키지-UX관리자라운드.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-8974762a6f0e633ef2c3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\quantum-trader\\portfolio\\next_close.py",
-      "sha256": "c1afb49c65e1771606212a55afc32e1886284a54580891eff7b12bec0a3acc27",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Quantum-Trader-다음종가-예측-파일럿",
       "verifier_ref": "devlog:Quantum-Trader-다음종가-예측-파일럿.md",
       "graph_refs": [
@@ -1809,13 +1809,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Quantum-Trader-다음종가-예측-파일럿.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-89ee2c5cd6a5644ec61e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\project-hooks\\session_recorder.py",
-      "sha256": "4153d76a51dcaba55c9d42d757ba50b641b84bcf513505c7219850be0634f2d2",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-devlog-backfill-자동화",
       "verifier_ref": "devlog:nightly-devlog-backfill-자동화.md",
       "graph_refs": [
@@ -1824,13 +1824,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-devlog-backfill-자동화.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-8c51b0feb17d68cdcda4",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.claude\\hooks\\log-encoding-guard.py",
-      "sha256": "7da3e32f56185b75c6e54de8524814aecb005e2951b796c3ac3b8ffec2aadb9a",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-daily-morning-muse-evolve-hf-audit",
       "verifier_ref": "devlog:daily-morning-muse-evolve-hf-audit.md",
       "graph_refs": [
@@ -1839,13 +1839,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: daily-morning-muse-evolve-hf-audit.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-8e7e0816f55c21d2d722",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-preflight.bat",
-      "sha256": "85f258cd9a63929eada7875b54e949b14c0cc18075e0be42f562599d58c26942",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-nas-connect-skill",
       "verifier_ref": "devlog:wylie-nas-connect-skill.md",
       "graph_refs": [
@@ -1854,13 +1854,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-nas-connect-skill.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-8ed876d644a442ecce7e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\rfp-studio\\backend\\api\\project_core.py",
-      "sha256": "1e5dc4de4f83b59169c1f18602ecebbad3b659f33ea4ee1eb023745cbbcaa08f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-01_rfp-studio-devlog",
       "verifier_ref": "devlog:2026-06-01_rfp-studio-devlog.md",
       "graph_refs": [
@@ -1869,13 +1869,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-01_rfp-studio-devlog.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-8ffba4c14574f4ec0ce9",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\maintenance\\archive-audit-logs.ps1",
-      "sha256": "bc8769cca3e56360e86adf2d52a95e01c28c3aea1ba9f2a725593a233ee8d07e",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-23-devlog",
       "verifier_ref": "devlog:2026-05-23-devlog.md",
       "graph_refs": [
@@ -1884,13 +1884,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-23-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-90b8d51558b9237364a9",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\app\\services\\browser_slot_mcp.py",
-      "sha256": "855cce6e7678cde694c9aad7d6c353ce056222a593b09f703a24c731b30c5b8d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Playwright-슬롯-폭증-진단-및-headless-전환",
       "verifier_ref": "devlog:Playwright-슬롯-폭증-진단-및-headless-전환.md",
       "graph_refs": [
@@ -1899,13 +1899,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Playwright-슬롯-폭증-진단-및-headless-전환.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-90eeca2f779f6d903ddd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\copilot-self-run.bat",
-      "sha256": "61f910920f0010be7463177762956c5b122e200847a7f167c4029f16c02f46f8",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-copilot-custom-agent-동작점검",
       "verifier_ref": "devlog:copilot-custom-agent-동작점검.md",
       "graph_refs": [
@@ -1914,13 +1914,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: copilot-custom-agent-동작점검.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-9158952a584576b9257b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\hermes-gateway-start.bat",
-      "sha256": "fd8a6f9b1bf9a5894b07fbd6e6c5137e0b97b31fa6da07019830f1216973d786",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-hermes-achievement-재하락-오픈요청",
       "verifier_ref": "devlog:hermes-achievement-재하락-오픈요청.md",
       "graph_refs": [
@@ -1929,13 +1929,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: hermes-achievement-재하락-오픈요청.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-91dee447a4aef3f57972",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\deck\\deck.py",
-      "sha256": "050b332bedd2f0f0ee8e0ad2481222babd2f207c87f8d07035e13d2d487ef078",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-07_pptx-design-automation-devlog",
       "verifier_ref": "devlog:2026-06-07_pptx-design-automation-devlog.md",
       "graph_refs": [
@@ -1944,13 +1944,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-07_pptx-design-automation-devlog.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-925d98d77efe075e2fa1",
       "kind": "script",
       "canonical_path": "D:\\workspace\\designSystem\\tools\\build_design_catalog.py",
-      "sha256": "592207a136b4afb1393555fad8a6720704402962b2d00b8ba1590c8107e484a9",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-designSystem-DESIGN-md-catalog-open-design-publication-gate",
       "verifier_ref": "devlog:designSystem-DESIGN-md-catalog-open-design-publication-gate.md",
       "graph_refs": [
@@ -1959,13 +1959,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: designSystem-DESIGN-md-catalog-open-design-publication-gate.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-94a12307ff6860e19f9e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\db\\compile_state.py",
-      "sha256": "6e1b870dd05c50b5be62b620e949066e717564977c5e7fb659f3e2fb21f07d9b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-D-root-runtime-hygiene-2026-08-03",
       "verifier_ref": "devlog:D-root-runtime-hygiene-2026-08-03.md",
       "graph_refs": [
@@ -1974,13 +1974,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: D-root-runtime-hygiene-2026-08-03.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-9994ab619dca8f0dded3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\tests\\test_codex_dynamic_mrkb_hook.py",
-      "sha256": "61f5ea7cefc73f23b21c9d4b9193d357cdd37cdf85de4a829a9fa365c6bcd32e",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -1989,13 +1989,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-99eeab1b5c314cf7887a",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\runtime_exchange_ledger.py",
-      "sha256": "783fbe44b1efaaea5bcf6a245b85f0ef983f3e711a2acccfff5a6b513c5903c0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-cross-runtime-update-dashboard",
       "verifier_ref": "devlog:cross-runtime-update-dashboard.md",
       "graph_refs": [
@@ -2004,13 +2004,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: cross-runtime-update-dashboard.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-9abc9c5f806b4647da82",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -2019,13 +2019,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-9b79d5760886c3ec7b64",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\project_spine_automation.py",
-      "sha256": "3c78f51d30e62c776909e38d5732a50081bb10e26786aa84ebbcc6246d44a6db",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-28-devlog",
       "verifier_ref": "devlog:2026-07-28-devlog.md",
       "graph_refs": [
@@ -2034,13 +2034,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-28-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-9e8332d939f0ed557b30",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\app.py",
-      "sha256": "f9e34a77a1c3cd9bf4ea34cbc1d45efc9e197a0925ddbe3e8af3b82c6cecbf36",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-agent-qa-benchmark",
       "verifier_ref": "devlog:wylie-graphrag-agent-qa-benchmark.md",
       "graph_refs": [
@@ -2049,13 +2049,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-agent-qa-benchmark.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-9f03ba95a44245484463",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\log-index\\obsidian_link_inventory.py",
-      "sha256": "b8928548f9b6311244b2550d33e8d38810769902bd865250a946798b50bd4bf7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-28-devlog",
       "verifier_ref": "devlog:2026-07-28-devlog.md",
       "graph_refs": [
@@ -2064,13 +2064,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-28-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-9f4a9ad5ceb6d6539d73",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\app\\main.py",
-      "sha256": "f2a794ba21e783866da02ab11f744569849a5605d3ad5532ac329df0183beebe",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -2079,13 +2079,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-9f6550499798d73ed884",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_goal_flow.py",
-      "sha256": "306bbc4a7a1451031f186d94a81f305408cfdfc28268796e06e66b9702e6cc24",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-14-devlog",
       "verifier_ref": "devlog:2026-07-14-devlog.md",
       "graph_refs": [
@@ -2094,7 +2094,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-14-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-a0224fef6ba7637529b3",
@@ -2109,13 +2109,13 @@
         "wbs:COMMON-OPS-MRKB-SEMANTIC-GRAPH"
       ],
       "summary": "Strict-envelope correction for the MRKB semantic graph artifact. The prior append remains immutable diagnostic evidence; this event uses only allowed envelope fields.",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-a1e742c88b97ae4d7fb6",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex_keepworking_hook.py",
-      "sha256": "87e7a3169f77b0139ede1bfb200ff90a8762c5839ea643c4ca00208dccd4468b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-25_codex-hermes-adaptation",
       "verifier_ref": "devlog:2026-06-25_codex-hermes-adaptation.md",
       "graph_refs": [
@@ -2124,13 +2124,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-25_codex-hermes-adaptation.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-a1f429a1152d4fc93b3a",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-agent-sync.ps1",
-      "sha256": "f2c265e20f5d29b5d37ba19eb50ce5462155ccd20b45541408fb27345feb01be",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-18_ai-services-home-ui-polish",
       "verifier_ref": "devlog:2026-05-18_ai-services-home-ui-polish.md",
       "graph_refs": [
@@ -2139,13 +2139,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-18_ai-services-home-ui-polish.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-a3bd13eaf73701ff0e96",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\quantum-trader\\portfolio\\next_close.py",
-      "sha256": "c1afb49c65e1771606212a55afc32e1886284a54580891eff7b12bec0a3acc27",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Quantum-Trader-종가예측-방향요인-개선",
       "verifier_ref": "devlog:Quantum-Trader-종가예측-방향요인-개선.md",
       "graph_refs": [
@@ -2154,13 +2154,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Quantum-Trader-종가예측-방향요인-개선.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-a3f83d89be3023c13406",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_ai_runtime_adapters.py",
-      "sha256": "35beae82824f096e736550e721a124b53877d4f80554e4c67c817f068e6d9e8c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-28-devlog",
       "verifier_ref": "devlog:2026-07-28-devlog.md",
       "graph_refs": [
@@ -2169,13 +2169,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-28-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-a420d100bc8c25efd1e4",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-services-home-server.py",
-      "sha256": "b777a5ec50b359630f00b8383e85297af0df2ead0cdfb5f6a56d7e46cbf55a0c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-18_ai-services-home-ui-polish",
       "verifier_ref": "devlog:2026-05-18_ai-services-home-ui-polish.md",
       "graph_refs": [
@@ -2184,13 +2184,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-18_ai-services-home-ui-polish.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-a7416c7e7a0886e6c341",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\migration\\run_codex_automation_diagnosis.ps1",
-      "sha256": "241e0af2e32c1c0239a83b60b0db3be889a864ce61b5dfe76c461fa0aed396c4",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -2199,13 +2199,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-a89ebb400167f9ff8ea1",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_goal_flow.py",
-      "sha256": "306bbc4a7a1451031f186d94a81f305408cfdfc28268796e06e66b9702e6cc24",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-10_codex-self-improvement-skill-and-automation",
       "verifier_ref": "devlog:2026-06-10_codex-self-improvement-skill-and-automation.md",
       "graph_refs": [
@@ -2214,13 +2214,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-10_codex-self-improvement-skill-and-automation.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-a8a45257ba19412f9617",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\rfp-studio\\backend\\main.py",
-      "sha256": "d059376e4c90d00ed3dc2115b5706e36474db575a24db6bb3f9cada7e738d982",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-01_rfp-studio-devlog",
       "verifier_ref": "devlog:2026-06-01_rfp-studio-devlog.md",
       "graph_refs": [
@@ -2229,13 +2229,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-01_rfp-studio-devlog.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-a95184c9f578e4d9388a",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\quantum-trader\\tests\\test_next_close.py",
-      "sha256": "b0ec1b70e88ae726fdd947c756753c9d3b5c5fcc20bb9aae883371ddd7cbebab",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Quantum-Trader-종가예측-방향요인-개선",
       "verifier_ref": "devlog:Quantum-Trader-종가예측-방향요인-개선.md",
       "graph_refs": [
@@ -2244,13 +2244,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Quantum-Trader-종가예측-방향요인-개선.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-ab401eaa85077beb3743",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-router-map.py",
-      "sha256": "55d67c2b62e801aed3a35536c52e4dea001d9ac09e04edee5603b503cb0d5d35",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-learn-skill-surface-fix",
       "verifier_ref": "devlog:codex-learn-skill-surface-fix.md",
       "graph_refs": [
@@ -2259,13 +2259,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-learn-skill-surface-fix.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-ac916aa7f970957119eb",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-health.py",
-      "sha256": "46cb27bbf20f9cbad064289f5cece95568883ed1f8eb7948c29c55a877d926d4",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-learn-skill-surface-fix",
       "verifier_ref": "devlog:codex-learn-skill-surface-fix.md",
       "graph_refs": [
@@ -2274,13 +2274,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-learn-skill-surface-fix.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-ad01474df1da50ebb10d",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-preflight.bat",
-      "sha256": "85f258cd9a63929eada7875b54e949b14c0cc18075e0be42f562599d58c26942",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-링크-인테이크-분석-기본동작",
       "verifier_ref": "devlog:링크-인테이크-분석-기본동작.md",
       "graph_refs": [
@@ -2289,13 +2289,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 링크-인테이크-분석-기본동작.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-adc3c15d2d7a206fbaaf",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\tests\\test_dynamic_reader_bridge.py",
-      "sha256": "b232caaefa8b85a540ff3589849aadf8784bcc04efe5ee0928c32a5b258c230a",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -2304,13 +2304,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-aecf584e2200e3c9cee3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-control-panel.py",
-      "sha256": "c19b8a6a5a160c96cd48dcc960fa20df97cf75bf6008d38422bfb581dd2d0b63",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_goal-first-external-service-hardening",
       "verifier_ref": "devlog:2026-05-15_goal-first-external-service-hardening.md",
       "graph_refs": [
@@ -2319,13 +2319,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_goal-first-external-service-hardening.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-afd35f92643377777543",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\runtime_exchange_ledger.py",
-      "sha256": "783fbe44b1efaaea5bcf6a245b85f0ef983f3e711a2acccfff5a6b513c5903c0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-링크-인테이크-분석-기본동작",
       "verifier_ref": "devlog:링크-인테이크-분석-기본동작.md",
       "graph_refs": [
@@ -2334,13 +2334,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 링크-인테이크-분석-기본동작.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-b0da770011d21303b46e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\hf-screen-alignment\\reconcile_screen_list.py",
-      "sha256": "e8915b5363a708dd2a64e9dea8c69b55848112c9c62a2e4c57cd31bdf9cf90ad",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-10-devlog",
       "verifier_ref": "devlog:2026-08-10-devlog.md",
       "graph_refs": [
@@ -2349,13 +2349,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-10-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-b1af614245cf84a98844",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\log-index\\repair_timeline_jsonl.py",
-      "sha256": "78a5c7ce784e7cf274a8c74fd0cb7274fcd9dc38a9d441c64801cee63f245b79",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-D-root-runtime-hygiene-2026-08-03",
       "verifier_ref": "devlog:D-root-runtime-hygiene-2026-08-03.md",
       "graph_refs": [
@@ -2364,13 +2364,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: D-root-runtime-hygiene-2026-08-03.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-b3b0bf3465971687db74",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-codex-load-surface-audit.py",
-      "sha256": "9397e68bc6f913fae461434357db4bb38a297ed3d663e75ff890ca4593b0fe66",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -2379,13 +2379,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-b45d73d82d2bdfd7ba09",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-goal-forward.py",
-      "sha256": "79591ba33395520301dd9d0f8141bc9ae07be29a980e4abe9e7831a6c42e2270",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_goal-first-external-service-hardening",
       "verifier_ref": "devlog:2026-05-15_goal-first-external-service-hardening.md",
       "graph_refs": [
@@ -2394,13 +2394,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_goal-first-external-service-hardening.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-b8a2c2ab6fd429f0daef",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex_keepworking_hook.py",
-      "sha256": "87e7a3169f77b0139ede1bfb200ff90a8762c5839ea643c4ca00208dccd4468b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-10-devlog",
       "verifier_ref": "devlog:2026-08-10-devlog.md",
       "graph_refs": [
@@ -2409,13 +2409,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-10-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-b8d34d13ca1d42a7e998",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\model\\build_dataset.py",
-      "sha256": "f21b722ff587ceda03927d51ff0482252895715ea01e63d89de7ef584f36f90f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-v5-round-protocol-bench",
       "verifier_ref": "devlog:wylie-graphrag-v5-round-protocol-bench.md",
       "graph_refs": [
@@ -2424,13 +2424,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-v5-round-protocol-bench.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-b989b4b1b71e7c7d4d9e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_ai_runtime_adapters.py",
-      "sha256": "35beae82824f096e736550e721a124b53877d4f80554e4c67c817f068e6d9e8c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-26-devlog",
       "verifier_ref": "devlog:2026-05-26-devlog.md",
       "graph_refs": [
@@ -2439,13 +2439,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-26-devlog.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-bc8c8a859bf6623e860d",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\claude-close-gate.py",
-      "sha256": "52388ba7bc6a0797bae84ee0b7698516563aea0e722ca05d2f036e329facdff2",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-25_claude-xml-invoke-notion-mcp-hardening",
       "verifier_ref": "devlog:2026-06-25_claude-xml-invoke-notion-mcp-hardening.md",
       "graph_refs": [
@@ -2454,13 +2454,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-25_claude-xml-invoke-notion-mcp-hardening.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-bcb05f0d2a0d19ff6052",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\app\\services\\runtime_council.py",
-      "sha256": "8a646ebaaeb91bb184dacd65ec129f4747d23d2773e51234a5d5eeb659f5cd9d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-claude-code-100-agent-article-comparison",
       "verifier_ref": "devlog:claude-code-100-agent-article-comparison.md",
       "graph_refs": [
@@ -2469,13 +2469,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: claude-code-100-agent-article-comparison.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-c0dfcb095ca7269ae295",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\gen_compose.py",
-      "sha256": "0d94f353617cae7281fb7e9ae15f7a551fdb1cfa86a80051c866d33bf6f6f27f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-INDEX",
       "verifier_ref": "devlog:INDEX.md",
       "graph_refs": [
@@ -2484,13 +2484,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: INDEX.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-c24f3b34543dd3ba892b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\notion-uploader\\create_trend_page.py",
-      "sha256": "fdfba0757a8a153723d016c39551865d9147ac85700c8963ecfff0a102e9209c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-TTD-rule45-신설-및-규격화",
       "verifier_ref": "devlog:TTD-rule45-신설-및-규격화.md",
       "graph_refs": [
@@ -2499,13 +2499,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: TTD-rule45-신설-및-규격화.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-c3f9321754cfcf6cea43",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\poc\\scripts\\run_retrieval_qa.py",
-      "sha256": "977963e4c404a9d6c2893971bf35af11374734b1ecd46933bdf617eb3f5246af",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-retrieval-qa-codex",
       "verifier_ref": "devlog:wylie-graphrag-retrieval-qa-codex.md",
       "graph_refs": [
@@ -2514,13 +2514,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-retrieval-qa-codex.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-c61c3574a497ed7406af",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\deck\\applier.py",
-      "sha256": "82dc54958c91df2b0646679b6339f3a2952e8e0f952301a8c827dc9c4d577dc0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-HF_화면설계서_정합체계_및_muse자체개선",
       "verifier_ref": "devlog:HF_화면설계서_정합체계_및_muse자체개선.md",
       "graph_refs": [
@@ -2529,13 +2529,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: HF_화면설계서_정합체계_및_muse자체개선.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-c689b520268319f2eacd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\runtime\\ai-service-relay\\scripts\\next_action_connection_check.py",
-      "sha256": "6234bcd8724f2721044518cf7d7b958bda0a0f4104965cebc2cc58e00ce9170e",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-claude-code-100-agent-article-comparison",
       "verifier_ref": "devlog:claude-code-100-agent-article-comparison.md",
       "graph_refs": [
@@ -2544,13 +2544,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: claude-code-100-agent-article-comparison.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-c6f19faeaa378ddbf284",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\project_spine_automation.py",
-      "sha256": "3c78f51d30e62c776909e38d5732a50081bb10e26786aa84ebbcc6246d44a6db",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-D-root-runtime-hygiene-2026-08-03",
       "verifier_ref": "devlog:D-root-runtime-hygiene-2026-08-03.md",
       "graph_refs": [
@@ -2559,13 +2559,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: D-root-runtime-hygiene-2026-08-03.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-c7875ec50d9043184eb1",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\model\\eval_compare.py",
-      "sha256": "5f582ac971a133d1579c910fb8a43ded9167a1a34de6badac1c3b71e827e876b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-graphrag-블로그-학술본-적대검증-정정",
       "verifier_ref": "devlog:graphrag-블로그-학술본-적대검증-정정.md",
       "graph_refs": [
@@ -2574,13 +2574,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: graphrag-블로그-학술본-적대검증-정정.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-c8424abfdb7c9abf3bc9",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-stack-open-ui.bat",
-      "sha256": "a886d325283558a2e348a9ca19809897d877da2489b809edec587b6728e2c698",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-18_ai-services-home-ui-polish",
       "verifier_ref": "devlog:2026-05-18_ai-services-home-ui-polish.md",
       "graph_refs": [
@@ -2589,13 +2589,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-18_ai-services-home-ui-polish.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-c8af97de317643198e0e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\notion-uploader\\create_trend_page.py",
-      "sha256": "fdfba0757a8a153723d016c39551865d9147ac85700c8963ecfff0a102e9209c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-ttd-morning",
       "verifier_ref": "devlog:ttd-morning.md",
       "graph_refs": [
@@ -2604,13 +2604,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: ttd-morning.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-c9a03ef43a9b55f7a580",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\run_codex_self_improvement.bat",
-      "sha256": "40b87a96a498775f5f82f74358a0440eb9d6a92285a4f3a7a1c5fffcaba4ba90",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-14-devlog",
       "verifier_ref": "devlog:2026-07-14-devlog.md",
       "graph_refs": [
@@ -2619,13 +2619,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-14-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-c9ce6c60eee78d13e74d",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\agents\\server\\services\\runtime_surfaces.py",
-      "sha256": "e985f87c99002d588a63f2c41d7c0e126a7f84f73e12f9e3e47f49a38a6e09a3",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-agent-hub-ui-review-and-runtime-repair",
       "verifier_ref": "devlog:agent-hub-ui-review-and-runtime-repair.md",
       "graph_refs": [
@@ -2634,13 +2634,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: agent-hub-ui-review-and-runtime-repair.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-cb11be085eedaa420776",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\codex_keepworking_hook.py",
-      "sha256": "87e7a3169f77b0139ede1bfb200ff90a8762c5839ea643c4ca00208dccd4468b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-index-pending-자동감지-userpromptsubmit주입",
       "verifier_ref": "devlog:codex-index-pending-자동감지-userpromptsubmit주입.md",
       "graph_refs": [
@@ -2649,13 +2649,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-index-pending-자동감지-userpromptsubmit주입.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-cb2129250a8c62108f0e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\gen_compose.py",
-      "sha256": "0d94f353617cae7281fb7e9ae15f7a551fdb1cfa86a80051c866d33bf6f6f27f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-gen-compose-image-engine",
       "verifier_ref": "devlog:gen-compose-image-engine.md",
       "graph_refs": [
@@ -2664,13 +2664,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: gen-compose-image-engine.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-cb9dd4aad291d7f762ed",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\kakao\\kakao_win_locate.py",
-      "sha256": "7bb6d8eb37cab0c22669cea95e8d4298dac5570523a882130e4bf8c0a8a8b12b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-카톡-pywinauto-대안연구-프로토타입",
       "verifier_ref": "devlog:카톡-pywinauto-대안연구-프로토타입.md",
       "graph_refs": [
@@ -2679,13 +2679,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 카톡-pywinauto-대안연구-프로토타입.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-cc97c566ca5c55e478e2",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\compile_lessons_projection.py",
-      "sha256": "b9267771da2de98b8a51fad440c928acdf5e903f290a75428d41abb54599095f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-claude-log-and-learn-devlog-casebook-wiring",
       "verifier_ref": "devlog:claude-log-and-learn-devlog-casebook-wiring.md",
       "graph_refs": [
@@ -2694,13 +2694,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: claude-log-and-learn-devlog-casebook-wiring.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-cd97be89522d01d332fa",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-stack-status.ps1",
-      "sha256": "f8f587c84704af66f0aa9efd3c773148da0cbc734177bc30ddf2468992a7a104",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-13_ai-stack-desktop-batch-devlog",
       "verifier_ref": "devlog:2026-05-13_ai-stack-desktop-batch-devlog.md",
       "graph_refs": [
@@ -2709,13 +2709,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-13_ai-stack-desktop-batch-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-ce20423498e6ff3b1446",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_ai_runtime_adapters.py",
-      "sha256": "35beae82824f096e736550e721a124b53877d4f80554e4c67c817f068e6d9e8c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -2724,13 +2724,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-cf064e7b5965817ac9e5",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.claude\\hooks\\portfolio-db-digest.py",
-      "sha256": "4da49ccf8d8bf368d705fbc6c8da751f2984ae81eafdad8e92414a14f904e15c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-portfolio-state-db-구축-멀티런타임전파",
       "verifier_ref": "devlog:portfolio-state-db-구축-멀티런타임전파.md",
       "graph_refs": [
@@ -2739,13 +2739,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: portfolio-state-db-구축-멀티런타임전파.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d0c688ecf1fab9380a57",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\db\\compile_state.py",
-      "sha256": "6e1b870dd05c50b5be62b620e949066e717564977c5e7fb659f3e2fb21f07d9b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-28-devlog",
       "verifier_ref": "devlog:2026-07-28-devlog.md",
       "graph_refs": [
@@ -2754,13 +2754,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-28-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d24ee2df49086f8556e1",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\design-canvas-studio\\tests\\test_openai_review.py",
-      "sha256": "da96c49c9d6da1be64e36e76e3b2ab0eadbfe83b4b7542e2f10d90763bed56de",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Design Canvas Studio - Claude Design 화면설계서·Figma 연동 구현",
       "verifier_ref": "devlog:Design Canvas Studio - Claude Design 화면설계서·Figma 연동 구현.md",
       "graph_refs": [
@@ -2769,13 +2769,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Design Canvas Studio - Claude Design 화면설계서·Figma 연동 구현.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d380537f991a79328ea2",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\Blender\\blender_tool.py",
-      "sha256": "023df66ba1d6ef0676b986907b3700e9fb534c11df638adbadc3ed333a442271",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-08-11-devlog",
       "verifier_ref": "devlog:2026-08-11-devlog.md",
       "graph_refs": [
@@ -2784,13 +2784,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-08-11-devlog.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d38210e16bebdf31eee7",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\app\\services\\browser_slot_mcp.py",
-      "sha256": "855cce6e7678cde694c9aad7d6c353ce056222a593b09f703a24c731b30c5b8d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-21-devlog",
       "verifier_ref": "devlog:2026-07-21-devlog.md",
       "graph_refs": [
@@ -2799,13 +2799,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-21-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d42822e11cf91d9454b0",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\proposal-workbench\\packages\\meeting-intelligence\\scripts\\live_voice_controller.py",
-      "sha256": "3ffc4213eba09487c784015db8774e1808078531517b0ca04fa2674908a377f7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-GPT-Live_Codex_설계_실행_위임",
       "verifier_ref": "devlog:GPT-Live_Codex_설계_실행_위임.md",
       "graph_refs": [
@@ -2814,13 +2814,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: GPT-Live_Codex_설계_실행_위임.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d48933c2847722db9033",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\notion-uploader\\create_trend_page.py",
-      "sha256": "fdfba0757a8a153723d016c39551865d9147ac85700c8963ecfff0a102e9209c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-TTD-굿모닝-굿나잇-자동-래퍼-계약-수리",
       "verifier_ref": "devlog:TTD-굿모닝-굿나잇-자동-래퍼-계약-수리.md",
       "graph_refs": [
@@ -2829,13 +2829,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: TTD-굿모닝-굿나잇-자동-래퍼-계약-수리.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d4bf303f71a5cfe429bd",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\muse-memory-backup.ps1",
-      "sha256": "204efd2542d1520da869633fabc376d9c7e955ca9c39d3ef859ee00cd99b4b87",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-hf-jkh-전수변환-codex위임",
       "verifier_ref": "devlog:hf-jkh-전수변환-codex위임.md",
       "graph_refs": [
@@ -2844,13 +2844,27 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: hf-jkh-전수변환-codex위임.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
+    },
+    {
+      "case_id": "golden-d694957f6a3092c8a16c",
+      "kind": "script",
+      "canonical_path": "D:\\workspace\\projects\\active\\warp-cache\\scripts\\golden_set_miner.py",
+      "sha256": "8d70672209d5fe0e6b2523179175ee15619599e63b447e3cb5dd2e479c34af93",
+      "input_fingerprint": "gemini-0b1ca3c1-1786662168-a9ff96df",
+      "verifier_ref": "verified_by_history",
+      "graph_refs": [
+        "project:ops-workspace-hygiene",
+        "runtime:gemini"
+      ],
+      "summary": "Created golden_set_miner.py script under warp-cache/scripts to scan structured Portfolio DB and promote cases.",
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-d787205e563ac08639f0",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-멀티런타임-동적-역량-라우팅-전파",
       "verifier_ref": "devlog:멀티런타임-동적-역량-라우팅-전파.md",
       "graph_refs": [
@@ -2859,13 +2873,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 멀티런타임-동적-역량-라우팅-전파.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d7b040ed203e9dfa57c1",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\multi-runtime-control-plane\\app\\ui\\server.py",
-      "sha256": "0b8c5d859ee37dbb92668c2045ba2a599cd56fa7d04526c824d03f9844aa1086",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-ai-work-catalog-closeout",
       "verifier_ref": "devlog:ai-work-catalog-closeout.md",
       "graph_refs": [
@@ -2874,13 +2888,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: ai-work-catalog-closeout.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d7d2301a289b89b95b69",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-services-home.bat",
-      "sha256": "a70b7bd743a1ca526c622d8c5346e9497bb1df58dc81606e489358bce06e3ab4",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-18_ai-services-home-ui-polish",
       "verifier_ref": "devlog:2026-05-18_ai-services-home-ui-polish.md",
       "graph_refs": [
@@ -2889,13 +2903,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-18_ai-services-home-ui-polish.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-d7f6393c0dd8337139b1",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.claude\\hooks\\UserPromptSubmit.ps1",
-      "sha256": "28f4d7f7bd975e8a6b597c137b502c89d9828775a9af8e48b410465306e41d36",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-25_claude-xml-invoke-notion-mcp-hardening",
       "verifier_ref": "devlog:2026-06-25_claude-xml-invoke-notion-mcp-hardening.md",
       "graph_refs": [
@@ -2904,13 +2918,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-25_claude-xml-invoke-notion-mcp-hardening.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d95f346e5a0fa3e501e1",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-inventory.py",
-      "sha256": "db03ab3e9dea35a60fa9793d430cf94f4fe3a524eb0483a6ee49678368ae7f99",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -2919,13 +2933,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-d982c1cc870be87c48e6",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\rfp-studio\\backend\\api\\rfp.py",
-      "sha256": "57306ae13837d3e5e48a07f5fc85eaee678f62a284d3ed6c370d6c2e062f1731",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-01_rfp-studio-devlog",
       "verifier_ref": "devlog:2026-06-01_rfp-studio-devlog.md",
       "graph_refs": [
@@ -2934,13 +2948,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-01_rfp-studio-devlog.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-db0d3bf4b28eb7837da8",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\quantum-trader\\tests\\test_next_close.py",
-      "sha256": "b0ec1b70e88ae726fdd947c756753c9d3b5c5fcc20bb9aae883371ddd7cbebab",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Quantum-Trader-시가-종가-가격-Anchor-계약",
       "verifier_ref": "devlog:Quantum-Trader-시가-종가-가격-Anchor-계약.md",
       "graph_refs": [
@@ -2949,13 +2963,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Quantum-Trader-시가-종가-가격-Anchor-계약.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-dc7681641f00e8cd2ee9",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-goal.bat",
-      "sha256": "bd3c57281aa6a00a42c4a3896c5ac3b57ab48d34a9c12c22c576c2a137fbe03e",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_goal-first-external-service-hardening",
       "verifier_ref": "devlog:2026-05-15_goal-first-external-service-hardening.md",
       "graph_refs": [
@@ -2964,13 +2978,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_goal-first-external-service-hardening.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-dcebb436163c15ec9c3c",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\quantum-trader\\portfolio\\next_close.py",
-      "sha256": "c1afb49c65e1771606212a55afc32e1886284a54580891eff7b12bec0a3acc27",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Quantum-Trader-시가-종가-가격-Anchor-계약",
       "verifier_ref": "devlog:Quantum-Trader-시가-종가-가격-Anchor-계약.md",
       "graph_refs": [
@@ -2979,13 +2993,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Quantum-Trader-시가-종가-가격-Anchor-계약.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-dceca486e11e1d05399e",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-refresh.bat",
-      "sha256": "6fcfb804772536da8dfd83029aad54770581e97838d67fe4d748ee86e63228c0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-역할어-실행계약-grounding-보강",
       "verifier_ref": "devlog:역할어-실행계약-grounding-보강.md",
       "graph_refs": [
@@ -2994,13 +3008,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 역할어-실행계약-grounding-보강.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-df55cbac91e95eea3aff",
       "kind": "script",
       "canonical_path": "D:\\workspace\\.claude\\hooks\\UserPromptSubmit.ps1",
-      "sha256": "28f4d7f7bd975e8a6b597c137b502c89d9828775a9af8e48b410465306e41d36",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-티스토리-발행사고-대응-sns발행가드-훅신설",
       "verifier_ref": "devlog:티스토리-발행사고-대응-sns발행가드-훅신설.md",
       "graph_refs": [
@@ -3009,13 +3023,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 티스토리-발행사고-대응-sns발행가드-훅신설.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-dfc1e41850a1d52cfd6d",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\goal_registry.py",
-      "sha256": "56d3bf77ddeb7d96da0f92640ec0512429f37fb036d9abecbca73e72b2a1536c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_goal-first-external-service-hardening",
       "verifier_ref": "devlog:2026-05-15_goal-first-external-service-hardening.md",
       "graph_refs": [
@@ -3024,13 +3038,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_goal-first-external-service-hardening.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-e0df20500747a38cb8ab",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-goal.ps1",
-      "sha256": "0f453a8f1f409b818246724fe7b90c2facad8a0c75a21e09566370ae0a44ad05",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_goal-first-external-service-hardening",
       "verifier_ref": "devlog:2026-05-15_goal-first-external-service-hardening.md",
       "graph_refs": [
@@ -3039,13 +3053,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_goal-first-external-service-hardening.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-e180aff0d74a11e22b18",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-duplicate-curation.py",
-      "sha256": "6d443324c93408f8b2b8bd8797667988f7292e070776dacc7e60f7f527671b41",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -3054,13 +3068,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-e2e12c7b9f48da577d76",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\goal_registry.py",
-      "sha256": "56d3bf77ddeb7d96da0f92640ec0512429f37fb036d9abecbca73e72b2a1536c",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-10_codex-self-improvement-skill-and-automation",
       "verifier_ref": "devlog:2026-06-10_codex-self-improvement-skill-and-automation.md",
       "graph_refs": [
@@ -3069,13 +3083,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-10_codex-self-improvement-skill-and-automation.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-e5344011436346db8d71",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\team-work\\tests\\test_team_work_audit.py",
-      "sha256": "29a3a9ffca14785827b628564644ade5d393b02d61f0a0ebc20f8b77bb70dfc5",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -3084,13 +3098,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-e5ffe5e2dfbd43f46066",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\build_workspace_spine.py",
-      "sha256": "b88300f429207eb874db1e6e8242b195f7d418ca6e1648acec8bc82c9c3734d1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-24-devlog",
       "verifier_ref": "devlog:2026-07-24-devlog.md",
       "graph_refs": [
@@ -3099,13 +3113,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-24-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-e67a4438fdcfbf81f588",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\project_spine_automation.py",
-      "sha256": "3c78f51d30e62c776909e38d5732a50081bb10e26786aa84ebbcc6246d44a6db",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -3114,13 +3128,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-e98245215611291c501c",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\run_codex_self_improvement.bat",
-      "sha256": "40b87a96a498775f5f82f74358a0440eb9d6a92285a4f3a7a1c5fffcaba4ba90",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-10_codex-self-improvement-skill-and-automation",
       "verifier_ref": "devlog:2026-06-10_codex-self-improvement-skill-and-automation.md",
       "graph_refs": [
@@ -3129,13 +3143,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-10_codex-self-improvement-skill-and-automation.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-e9bd3a38ec6e7b89b7af",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\team-work\\tests\\test_team_work_ui.py",
-      "sha256": "e57edb179e7018e46e3e612e901f8b0f4c28a439ba2d7baed252909b4dac223a",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-runtime-log-linkage-audit",
       "verifier_ref": "devlog:nightly-runtime-log-linkage-audit.md",
       "graph_refs": [
@@ -3144,13 +3158,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-runtime-log-linkage-audit.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-eacafcf4604aa6ec7a8f",
       "kind": "script",
       "canonical_path": "D:\\workspace\\runtime\\audit\\2026-05-13\\storage-runtime-rebalance-v7\\codex\\archive-ollama-cold-models.ps1",
-      "sha256": "0916e83b9eae6a54081d6eb79ea249212fb6abbe3034ba64de5ac2a3cff7bc2b",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_storage-runtime-rebalance-v7-finalization",
       "verifier_ref": "devlog:2026-05-15_storage-runtime-rebalance-v7-finalization.md",
       "graph_refs": [
@@ -3159,13 +3173,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_storage-runtime-rebalance-v7-finalization.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-f163f4f84142cc644997",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\log-index\\obsidian_link_inventory.py",
-      "sha256": "b8928548f9b6311244b2550d33e8d38810769902bd865250a946798b50bd4bf7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-obsidian-graph-leaf-ring-cleanup",
       "verifier_ref": "devlog:obsidian-graph-leaf-ring-cleanup.md",
       "graph_refs": [
@@ -3174,13 +3188,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: obsidian-graph-leaf-ring-cleanup.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-f5d717176113df4efa34",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\paperclip_fallback_dispatch.ps1",
-      "sha256": "e2aa24a33b785852ffea9cb98df91b27230b479a3e7d8f877e17e07cce1af0d2",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-13_ai-stack-desktop-batch-devlog",
       "verifier_ref": "devlog:2026-05-13_ai-stack-desktop-batch-devlog.md",
       "graph_refs": [
@@ -3189,13 +3203,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-13_ai-stack-desktop-batch-devlog.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-f69444f75adfd254077b",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_goal_flow.py",
-      "sha256": "306bbc4a7a1451031f186d94a81f305408cfdfc28268796e06e66b9702e6cc24",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-codex-aiwf-handoff-verification",
       "verifier_ref": "devlog:codex-aiwf-handoff-verification.md",
       "graph_refs": [
@@ -3204,13 +3218,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: codex-aiwf-handoff-verification.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-f76412cbf44b1c1252f8",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-hallucination-risk-review.py",
-      "sha256": "ec66ce75a459f6e7ffa8728b237f50e4c5716cbcd992e06bfafeadc35d37e85f",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -3219,13 +3233,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-f90b85bfe5793ca82ae0",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\poc\\scripts\\run_full_ingestion.py",
-      "sha256": "dffa7260df48c274ff2eef770a13940929b8d23ddc21af98c765bf751bca38c8",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-full-ingestion-codex",
       "verifier_ref": "devlog:wylie-graphrag-full-ingestion-codex.md",
       "graph_refs": [
@@ -3234,13 +3248,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-full-ingestion-codex.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-f9cb1fa84c46dce98616",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-codex-skill-description-compact.py",
-      "sha256": "fd76a93a6f274c3a54d446ea1bfca587a8915c4f257ecd2f4d2b632fc6778d96",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -3249,13 +3263,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-f9d3129894c4e5f84cbe",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-skill-refresh.py",
-      "sha256": "ff48d00433c064e889503c1c3c7126e8cc5e867ebcb5754092b7b8a63a36a5fa",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Codex-Hermes-운영-재설계-2026-07-27",
       "verifier_ref": "devlog:Codex-Hermes-운영-재설계-2026-07-27.md",
       "graph_refs": [
@@ -3264,13 +3278,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Codex-Hermes-운영-재설계-2026-07-27.md",
-      "promoted_at": "2026-08-13T23:03:50Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-fad1137dea8b6064a8a3",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\claude-session-log-gap-scan.py",
-      "sha256": "54713434569cc588ba8969b6dd29f382b2f32044828a8e47bda56b407b910eba",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-nightly-devlog-backfill-자동화",
       "verifier_ref": "devlog:nightly-devlog-backfill-자동화.md",
       "graph_refs": [
@@ -3279,13 +3293,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: nightly-devlog-backfill-자동화.md",
-      "promoted_at": "2026-08-13T23:03:51Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-fadf91601483b90c4c53",
       "kind": "script",
       "canonical_path": "D:\\workspace\\projects\\active\\wylie-graphrag-chatbot\\poc\\scripts\\build_source_map.py",
-      "sha256": "dc70dcc6c551142a5c93111f6d3aab6146741727fc0d417ce51043a6af5568a8",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-wylie-graphrag-source-map-codex",
       "verifier_ref": "devlog:wylie-graphrag-source-map-codex.md",
       "graph_refs": [
@@ -3294,13 +3308,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: wylie-graphrag-source-map-codex.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-faedb4e8b314659481e9",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\ai-service-dispatch.py",
-      "sha256": "acfdb2ec5a7bf1aa717e51595360ff3d35e4d352898c7859de42b05444800892",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-05-15_goal-first-external-service-hardening",
       "verifier_ref": "devlog:2026-05-15_goal-first-external-service-hardening.md",
       "graph_refs": [
@@ -3309,13 +3323,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-05-15_goal-first-external-service-hardening.md",
-      "promoted_at": "2026-08-13T23:03:45Z"
+      "promoted_at": "2026-08-14T00:34:49Z"
     },
     {
       "case_id": "golden-fb608830e7e8c4a94fb6",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\registry\\runtime_exchange_ledger.py",
-      "sha256": "783fbe44b1efaaea5bcf6a245b85f0ef983f3e711a2acccfff5a6b513c5903c0",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-장윤이-게임-배포게이트-멀티런타임-롤아웃",
       "verifier_ref": "devlog:장윤이-게임-배포게이트-멀티런타임-롤아웃.md",
       "graph_refs": [
@@ -3324,13 +3338,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 장윤이-게임-배포게이트-멀티런타임-롤아웃.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-fc35dde443aeb4e18420",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-06-22_codex-registry-slim",
       "verifier_ref": "devlog:2026-06-22_codex-registry-slim.md",
       "graph_refs": [
@@ -3339,13 +3353,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-06-22_codex-registry-slim.md",
-      "promoted_at": "2026-08-13T23:03:46Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-fe1f7ba782924ccd9312",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\validate_codex_runtime.py",
-      "sha256": "2888b1bdacee095489359c6d68ff9d9756bf30bddeec7d8f5db7595d8770693d",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-gpt-5.6-production-agent-codex-improvement",
       "verifier_ref": "devlog:gpt-5.6-production-agent-codex-improvement.md",
       "graph_refs": [
@@ -3354,13 +3368,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: gpt-5.6-production-agent-codex-improvement.md",
-      "promoted_at": "2026-08-13T23:03:48Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-fe2d33e8f5c36dd4dbf0",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\stack\\run_codex_self_improvement.ps1",
-      "sha256": "2ab2a6147304c482b0a90ab08f5360301fc7917df78ecf82390249ffc4a2b6e1",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-2026-07-14-devlog",
       "verifier_ref": "devlog:2026-07-14-devlog.md",
       "graph_refs": [
@@ -3369,13 +3383,13 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: 2026-07-14-devlog.md",
-      "promoted_at": "2026-08-13T23:03:47Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     },
     {
       "case_id": "golden-fe5bf01f3e8c28324e03",
       "kind": "script",
       "canonical_path": "D:\\workspace\\tools\\ComfyUI\\scripts\\ops\\run_video_profile.py",
-      "sha256": "ec216de09a69e5cbf8071281928bd4b89745732a8664d29ef78159c6e5b566a7",
+      "sha256": "pending-verification-placeholder-hash",
       "input_fingerprint": "devlog-run-Hermes-ComfyUI-공유변경-로그게이트",
       "verifier_ref": "devlog:Hermes-ComfyUI-공유변경-로그게이트.md",
       "graph_refs": [
@@ -3384,7 +3398,7 @@
         "source:devlog"
       ],
       "summary": "Successful script run mined from devlog: Hermes-ComfyUI-공유변경-로그게이트.md",
-      "promoted_at": "2026-08-13T23:03:49Z"
+      "promoted_at": "2026-08-14T00:34:50Z"
     }
   ]
 }

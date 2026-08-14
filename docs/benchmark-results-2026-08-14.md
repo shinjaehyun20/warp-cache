@@ -1,4 +1,4 @@
-# Benchmark results (Browser Direct-Request) — 2026-08-14
+# Benchmark results (Browser Direct-Request Mock PoC) — 2026-08-14
 
 ## Environment
 
@@ -6,7 +6,7 @@
 - **Target**: Local mock HTTP server (`127.0.0.1:9120`) simulating latency
 - **Metric**: Complete response cycle time (seconds) measured via Python `time.perf_counter()` over 10 runs.
 
-## Timings
+## Timings (Mock PoC Simulation)
 
 | Run | Baseline (Full JS Simulation) | WarpCache (Direct Bypass) | Speedup |
 |---|---|---|---|
@@ -28,8 +28,10 @@
 - **WarpCache Direct Bypass**: Uses the pre-authorized session cookies and token-based signature cache to issue raw HTTP GET requests directly to the target API endpoint, avoiding all browser instrumentation and layout logic. Delayed by `5 ms` representing network/JSON processing delay.
 - **Saved Percentage**: **94.18%** time reduction (Median saved: **0.09552 s** per request).
 
-## Conclusion
+## Conclusion (PoC Status Statement)
 
-The direct-request benchmark demonstrates that when a verified execution logic has already been proven and cached via WarpCache (e.g., successful page actions, form configurations), raw API bypass yields a **17.18x speed multiplier**. 
+> [!WARNING]
+> 이 벤치마크는 실제 브라우저와 연동된 실측 속도가 아닌, 로컬 mock 포트와 하드코딩된 대기 시간(100ms vs 5ms)을 통한 개념 실증용(Proof of Concept) 모의 시뮬레이션 결과입니다. 
 
-This is a proof-of-concept simulation using local ports under Gemini port-isolation boundaries (`9100-9199`). For safe production adoption, token caching requires strict secret-free auditing as defined in the default activation contract.
+실제 브라우저 가속 성능은 네트워크 대역폭, 엔드포인트의 연산 부하 및 보안 토큰 상태에 따라 실측되므로, 본 결과값(17.18x 배율)을 실운영 가속 수치로 간주해서는 안 됩니다. 이 모의 측정은 Gemini 포트 격리 대역(`9100-9199`) 내에서의 샌드박스 검증에 국한됩니다.
+

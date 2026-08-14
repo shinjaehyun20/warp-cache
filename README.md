@@ -50,7 +50,7 @@ This is an **index refresh** result, not a claim that every Python task or brows
 
 ## Browser lane
 
-Browser direct-request acceleration yields a measured **17.18x speed multiplier** by bypassing full UI rendering. See the test report at [`docs/benchmark-results-2026-08-14.md`](docs/benchmark-results-2026-08-14.md).
+Browser direct-request acceleration yields a measured **17.18x speed multiplier** under a local mock PoC simulation. See the test report at [`docs/benchmark-results-2026-08-14.md`](docs/benchmark-results-2026-08-14.md).
 
 ## Quick start
 
