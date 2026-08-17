@@ -51,7 +51,11 @@ class GoldenCase:
             raise GoldenSetError("canonical_path must be a regular file")
         if not input_fingerprint.strip() or not verifier_ref.strip() or not summary.strip():
             raise GoldenSetError("input_fingerprint, verifier_ref and summary are required")
-        if not graph_refs or any(not value.strip() for value in graph_refs):
+        if (
+            not isinstance(graph_refs, (list, tuple))
+            or not graph_refs
+            or any(not isinstance(value, str) or not value.strip() for value in graph_refs)
+        ):
             raise GoldenSetError("at least one non-empty graph reference is required")
         checksum = sha256_file(path)
         identity = "\0".join((kind, str(path), checksum, input_fingerprint, verifier_ref))
@@ -93,6 +97,8 @@ class GoldenSet:
         return {"case_id": case.case_id, "created": prior is None, "registry": str(self.path), "case_count": len(by_id)}
 
     def reuse_candidates(self, query: str, *, limit: int = 8) -> dict[str, Any]:
+        if isinstance(limit, bool) or not isinstance(limit, int) or not 1 <= limit <= 20:
+            raise GoldenSetError("limit must be an integer from 1 to 20")
         terms = {term.casefold() for term in query.split() if term}
         candidates = []
         for row in self._load()["cases"]:
