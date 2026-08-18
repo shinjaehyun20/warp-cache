@@ -7,8 +7,10 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from warp_cache.har_contract import HarContractError, is_raw_har_payload, validate_endpoint_contract_file
+
 SCHEMA = "warp-cache-golden-set/v1"
-ALLOWED_KINDS = {"skill", "tool", "script", "artifact"}
+ALLOWED_KINDS = {"skill", "tool", "script", "artifact", "endpoint_contract"}
 
 
 class GoldenSetError(ValueError):
@@ -49,6 +51,19 @@ class GoldenCase:
         path = Path(canonical_path).resolve(strict=True)
         if not path.is_file():
             raise GoldenSetError("canonical_path must be a regular file")
+        if path.suffix.casefold() == ".har":
+            raise GoldenSetError("raw HAR files cannot be promoted")
+        try:
+            parsed_payload = json.loads(path.read_text(encoding="utf-8"))
+        except (UnicodeDecodeError, json.JSONDecodeError, OSError):
+            parsed_payload = None
+        if is_raw_har_payload(parsed_payload):
+            raise GoldenSetError("raw HAR payloads cannot be promoted")
+        if kind == "endpoint_contract":
+            try:
+                validate_endpoint_contract_file(path)
+            except HarContractError as exc:
+                raise GoldenSetError(str(exc)) from exc
         if not input_fingerprint.strip() or not verifier_ref.strip() or not summary.strip():
             raise GoldenSetError("input_fingerprint, verifier_ref and summary are required")
         if (

@@ -13,3 +13,8 @@ Use GitHub's private security advisory flow for this repository, or contact the 
 ## Design boundary
 
 WarpCache is intended to store pointer-only, regenerable metadata. Credentials, browser sessions, authorization headers, raw HAR, request bodies, and response bodies must never be committed or promoted into a Golden Set.
+
+The optional HAR-derived endpoint-contract flow reads a local HAR once and
+writes only a secret-free shape contract. The Golden gate rejects `.har` files,
+HAR-shaped JSON, and endpoint contracts advertising sensitive header names.
+The raw HAR remains the browser/security owner's ephemeral responsibility.

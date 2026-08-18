@@ -52,6 +52,20 @@ This is an **index refresh** result, not a claim that every Python task or brows
 
 Browser direct-request acceleration yields a measured **17.18x speed multiplier** under a local mock PoC simulation. See the test report at [`docs/benchmark-results-2026-08-14.md`](docs/benchmark-results-2026-08-14.md).
 
+### Safe HAR-derived endpoint contracts
+
+WarpCache extends the browser lane with a **secret-free endpoint-contract
+deriver**. A local HAR may be read once, but it is never retained or promoted:
+the result contains only endpoint shape and auth-presence flags. Raw HAR,
+Cookie/Authorization values, request values, and response bodies are rejected
+from Golden Set promotion. See [`docs/safe-network-recipes.md`](docs/safe-network-recipes.md).
+
+```bash
+py -3.11 scripts/warp_cache.py har-derive-contract \
+  --input C:/safe-local/temporary-capture.har \
+  --output artifacts/endpoint-contract.json
+```
+
 ## Quick start
 
 ```bash
@@ -85,6 +99,7 @@ py -3.11 scripts/warp_cache.py golden-query --query "PPTX screen validation"
 - [x] Pointer-only runtime reuse model
 - [x] Golden Set gate with GraphRAG reference pointers and stale-source demotion
 - [x] Authorized browser direct-request benchmark (implemented and measured at [`docs/benchmark-results-2026-08-14.md`](docs/benchmark-results-2026-08-14.md))
+- [x] HAR-to-endpoint-contract extension with raw-HAR promotion denial
 
 ---
 
