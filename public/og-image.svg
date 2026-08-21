@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1280 640" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="title desc">
+  <title id="title">WarpCache — proof-carrying reuse for AI work</title>
+  <desc id="desc">Dark indigo cover with a warp portal, verified source cards, and the words WarpCache.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090B1D"/><stop offset=".55" stop-color="#16113D"/><stop offset="1" stop-color="#062B35"/></linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7C3AED"/><stop offset=".55" stop-color="#36D1C4"/><stop offset="1" stop-color="#C8FF5A"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="11" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1280" height="640" rx="34" fill="url(#bg)"/>
+  <g opacity=".24" stroke="#9C8CFF" stroke-width="1"><path d="M0 116H1280M0 212H1280M0 308H1280M0 404H1280M0 500H1280"/><path d="M160 0V640M320 0V640M480 0V640M640 0V640M800 0V640M960 0V640M1120 0V640"/></g>
+  <circle cx="960" cy="319" r="172" fill="none" stroke="#7C3AED" stroke-width="24" opacity=".23" filter="url(#glow)"/>
+  <circle cx="960" cy="319" r="136" fill="#080C20" stroke="url(#beam)" stroke-width="9" filter="url(#glow)"/>
+  <circle cx="960" cy="319" r="82" fill="#0D1F2B" stroke="#36D1C4" stroke-width="2"/>
+  <path d="M820 319H1096" stroke="url(#beam)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+  <g fill="#101933" stroke="#4B5F91" stroke-width="1.5"><rect x="754" y="203" width="132" height="72" rx="12"/><rect x="1027" y="363" width="132" height="72" rx="12"/><rect x="770" y="430" width="132" height="72" rx="12"/></g>
+  <g fill="#C8FF5A"><circle cx="780" cy="226" r="5"/><circle cx="1053" cy="386" r="5"/><circle cx="796" cy="453" r="5"/></g>
+  <g fill="#D9E3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600"><text x="794" y="231">SKILL</text><text x="1067" y="391">VERIFY</text><text x="810" y="458">SCRIPT</text></g>
+  <text x="110" y="254" fill="#EAF0FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="-3">WarpCache</text>
+  <rect x="112" y="284" width="206" height="7" rx="3.5" fill="url(#beam)"/>
+  <text x="112" y="350" fill="#B9C7E9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="500">Find proven work before rebuilding it.</text>
+  <text x="112" y="403" fill="#7F91BB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Change-aware index  ·  Golden Set  ·  Proof-carrying reuse</text>
+  <g transform="translate(112 480)"><rect width="318" height="54" rx="27" fill="#102842" stroke="#2E6A80"/><circle cx="29" cy="27" r="8" fill="#36D1C4"/><text x="50" y="34" fill="#D7F7F3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">LOCAL-FIRST · SECRET-FREE</text></g>
+</svg>

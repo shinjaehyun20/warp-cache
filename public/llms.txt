@@ -1,0 +1,29 @@
+# WarpCache
+
+> **Find proven work before rebuilding it.**
+
+WarpCache is a local reuse layer for AI work. It records only safe, regenerable metadata about skills, tools, scripts, and verified artifacts—then returns the canonical path and proof needed to reuse them.
+
+It is not a replacement for Hermes, Codex, Claude, Copilot, or Gemini. Each runtime still loads its own native instructions and enforces its own permissions.
+
+## Key Features
+- **Change-aware index**: Avoids re-hashing unchanged sources. Source files remain canonical.
+- **Reuse brief**: Sends a small, evidence-backed candidate list. Target runtime reloads native content.
+- **Proof ledger**: Keeps revision/hash/path with each candidate. No credentials or source-body replication.
+- **Golden Set × GraphRAG**: Traverses related work, then admits only verified reusable cases. Mutated source is automatically demoted.
+- **Network recipes (optional)**: Captures safe endpoint shape for authorized repeat work. HAR/raw secrets are never the cache.
+
+## Local-first, Secret-free
+- The cache is a disposable projection, never the source of truth.
+- Proof before reuse. Every candidate carries path, revision, and SHA-256.
+- No cross-runtime config copying.
+- No secrets in cache. Cookies, tokens, authorization values, raw HAR, and response bodies are excluded.
+- Measure before claiming.
+
+## Repository Map
+- `warp_cache/` - Core change-aware index
+- `scripts/` - Reproducible benchmark runner
+- `tests/` - Unit and speed-contract tests
+- `docs/` - Benchmark, Golden Set, and safety contracts
+
+Built for repeatable, local-first AI operations.
