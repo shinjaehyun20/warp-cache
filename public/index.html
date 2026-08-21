@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WarpCache — proof-carrying reuse for AI work</title>
+    <meta name="description" content="WarpCache is a local reuse layer for AI work. Find proven work before rebuilding it. Change-aware index, proof-carrying reuse, and secret-free execution.">
+    <meta name="keywords" content="WarpCache, AI reuse, local-first AI, proof-carrying cache, AI tools, LLM tools">
+
+    <!-- OpenGraph Tags -->
+    <meta property="og:title" content="WarpCache — proof-carrying reuse for AI work">
+    <meta property="og:description" content="WarpCache is a local reuse layer for AI work. Find proven work before rebuilding it.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://warpcache.com/">
+    <meta property="og:image" content="https://warpcache.com/og-image.svg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <!-- Twitter Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="WarpCache — proof-carrying reuse for AI work">
+    <meta name="twitter:description" content="WarpCache is a local reuse layer for AI work. Find proven work before rebuilding it.">
+    <meta name="twitter:image" content="https://warpcache.com/og-image.svg">
+
+    <!-- Link Tags -->
+    <link rel="canonical" href="https://warpcache.com/">
+    <link rel="alternate" type="application/json" href="/llms.txt" title="LLM context">
+
+    <!-- Schema.org JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "WarpCache",
+      "description": "WarpCache is a local reuse layer for AI work. It records only safe, regenerable metadata about skills, tools, scripts, and verified artifacts—then returns the canonical path and proof needed to reuse them.",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "All",
+      "url": "https://warpcache.com/",
+      "image": "https://warpcache.com/og-image.svg",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+</head>
+<body>
+    <header>
+        <h1>WarpCache</h1>
+        <p><strong>Find proven work before rebuilding it.</strong></p>
+    </header>
+
+    <main>
+        <section>
+            <h2>What is WarpCache?</h2>
+            <p>WarpCache is a <strong>local reuse layer</strong> for AI work. It records only safe, regenerable metadata about skills, tools, scripts, and verified artifacts—then returns the canonical path and proof needed to reuse them.</p>
+            <p>It is <strong>not</strong> a replacement for Hermes, Codex, Claude, Copilot, or Gemini. Each runtime still loads its own native instructions and enforces its own permissions.</p>
+        </section>
+
+        <section>
+            <h2>Key Benefits</h2>
+            <ul>
+                <li><strong>Change-aware index:</strong> Avoids re-hashing unchanged sources. Source files remain canonical.</li>
+                <li><strong>Reuse brief:</strong> Sends a small, evidence-backed candidate list. Target runtime reloads native content.</li>
+                <li><strong>Proof ledger:</strong> Keeps revision/hash/path with each candidate. No credentials or source-body replication.</li>
+                <li><strong>Golden Set × GraphRAG:</strong> Traverses related work, then admits only verified reusable cases. Mutated source is automatically demoted.</li>
+                <li><strong>Network recipes (optional):</strong> Captures safe endpoint shape for authorized repeat work. HAR/raw secrets are never the cache.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Principles</h2>
+            <ol>
+                <li><strong>Canonical source wins.</strong> The cache is disposable projection, never source of truth.</li>
+                <li><strong>Proof before reuse.</strong> Every candidate carries path, revision, and SHA-256.</li>
+                <li><strong>No cross-runtime config copying.</strong> A brief is a pointer, not an instruction transplant.</li>
+                <li><strong>No secrets in cache.</strong> Cookies, tokens, authorization values, raw HAR, and response bodies are excluded.</li>
+                <li><strong>Measure before claiming.</strong> Browser acceleration requires a permitted live endpoint, a paired baseline, and response-equivalence verification.</li>
+            </ol>
+        </section>
+    </main>
+
+    <footer>
+        <p>Built for repeatable, local-first AI operations.</p>
+    </footer>
+</body>
+</html>
